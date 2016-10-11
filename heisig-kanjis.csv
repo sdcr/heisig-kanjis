@@ -17,13 +17,13 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 古,16,16,old,old,tombstone; gravestone; church; ten; needle; mouth,コ,ふる.い; ふる-; -ふる.す
 吾,17,17,I,I,five; mouth,ゴ,われ; わが-; あ-
 冒,18,18,risk,risk,sun; day; eye,ボウ,おか.す
-朋,19,19,companion,companion,moon; month; flesh; part of the body; moon2; month2; flesh2; part of the body2,ホウ,とも
+朋,19,19,companion,companion,moon; month; flesh; part of the body,ホウ,とも
 明,20,20,bright,bright,sun; day; moon; month; flesh; part of the body,メイ; ミョウ; ミン,あ.かり; あか.るい; あか.るむ; あか.らむ; あき.らか; あ.ける; -あ.け; あ.く; あ.くる; あ.かす
-唱,21,21,chant,chant,mouth; prosperous; sun; day; tongue wagging; sun2; day2; tongue wagging2,ショウ,とな.える
-晶,22,22,sparkle,sparkle,day; sun; day3; sun3,ショウ,
-品,23,23,goods,goods,mouth; mouth3,ヒン; ホン,しな
-呂,24,24,spine,spine,mouth; drop; mouth2,ロ; リョ,せぼね
-昌,25,25,prosperous,prosperous,sun; day; sun2; day2,ショウ,さかん
+唱,21,21,chant,chant,mouth; prosperous; sun; day; tongue wagging,ショウ,とな.える
+晶,22,22,sparkle,sparkle,day; sun,ショウ,
+品,23,23,goods,goods,mouth,ヒン; ホン,しな
+呂,24,24,spine,spine,mouth; drop,ロ; リョ,せぼね
+昌,25,25,prosperous,prosperous,sun; day,ショウ,さかん
 早,26,26,early,early,sunflower; sun; day; ten; needle,ソウ; サッ,はや.い; はや; はや-; はや.まる; はや.める; さ-
 旭,27,27,rising sun,rising sun,nine; baseball; sun; day,キョク,あさひ
 世,28,28,generation,generation,ten; twenty,セイ; セ; ソウ,よ; さんじゅう
@@ -51,8 +51,8 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 上,49,50,above,above,magic wand; augury; divining rod; one; floor,ジョウ; ショウ; シャン,うえ; -うえ; うわ-; かみ; あ.げる; -あ.げる; あ.がる; -あ.がる; あ.がり; -あ.がり; のぼ.る; のぼ.り; のぼ.せる; のぼ.す; よ.す
 下,50,51,below,below,one; ceiling; magic wand; augury; divining rod,カ; ゲ,した; しも; もと; さ.げる; さ.がる; くだ.る; くだ.り; くだ.す; -くだ.す; くだ.さる; お.ろす; お.りる
 卓,51,52,eminent,eminent,magic wand; augury; divinging rod; sunflower; sun; day; ten; needle,タク,
-朝,52,53,morning,morning,mist; ten; needle; early; sun; day; moon; month; flesh; part of the body; ten2; needle2,チョウ,あさ
-嘲,2155,54,derision,derision,mouth; morning; mist; ten; needle; early; sun; day; moon; month; flesh; part of the body; ten2; needle2,チョウ; トウ,あざけ.る
+朝,52,53,morning,morning,mist; ten; needle; early; sun; day; moon; month; flesh; part of the body,チョウ,あさ
+嘲,2155,54,derision,derision,mouth; morning; mist; ten; needle; early; sun; day; moon; month; flesh; part of the body,チョウ; トウ,あざけ.る
 只,53,55,only,only,mouth; animal legs; eight,シ,ただ
 貝,54,56,shellfish,shellfish,clam; oyster; eye; animal legs; eight,バイ,かい
 唄,2178,57,pop song,pop song,mouth; shellfish; clam; oyster; eye; animal legs; eight,バイ,うた; うた.う
@@ -106,12 +106,12 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 母,101,105,mama,mama,mother; breasts,ボ,はは; も
 貫,102,106,pierce,pierce,mama; mother; breasts; oyster; shellfish; clam; oyster; eye; animal legs; eight,カン,つらぬ.く; ぬ.く; ぬき
 兄,103,107,elder brother,elder brother,teenager; mouth; human legs,ケイ; キョウ,あに
-呪,2169,108,curse,curse,mouth; elder brother; teenager; mouth; human legs; mouth2,ジュ; シュ; シュウ; ズ,まじな.う; のろ.い; まじな.い; のろ.う
+呪,2169,108,curse,curse,mouth; elder brother; teenager; mouth; human legs,ジュ; シュ; シュウ; ズ,まじな.う; のろ.い; まじな.い; のろ.う
 克,104,109,overcome,overcome,ten; needle; elder brother; teenager; mouth; human legs,コク,か.つ
 小,105,110,little,little,small,ショウ,ちい.さい; こ-; お-; さ-
 少,106,111,few,few,little; small; drop,ショウ,すく.ない; すこ.し
 大,107,112,large,large,St. Bernard,ダイ; タイ,おお-; おお.きい; -おお.いに
-多,108,113,many,many,evening; evening2,タ,おお.い; まさ.に; まさ.る
+多,108,113,many,many,evening,タ,おお.い; まさ.に; まさ.る
 夕,109,114,evening,evening,,セキ,ゆう
 汐,110,115,eventide,eventide,water; water droplets; water pistol; evening,セキ,しお; うしお; せい
 外,111,116,outside,outside,evening; magic wand; augury,ガイ; ゲ,そと; ほか; はず.す; はず.れる; と-
@@ -125,7 +125,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 削,118,124,plane,plane,resemblance; spark; candle; small; little; moon; month; flesh; part of the body; sword; sabre; saber,サク,けず.る; はつ.る; そ.ぐ
 光,119,125,ray,ray,small; little; human legs,コウ,ひか.る; ひかり
 太,120,126,plump,plump,large; St. Bernard; drop,タイ; タ,ふと.い; ふと.る
-器,121,127,utensil,utensil,mouth; large; St. Bernard; mouth4,キ,うつわ
+器,121,127,utensil,utensil,mouth; large; St. Bernard,キ,うつわ
 臭,122,128,stinking,stinking,nose; drop; eye; large; St. Bernard,シュウ,くさ.い; -くさ.い; にお.う; にお.い
 嗅,3008,129,sniff,sniff,,キュウ,か.ぐ
 妙,123,130,exquisite,exquisite,woman; few,ミョウ; ビョウ,たえ
@@ -150,7 +150,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 汰,2316,149,cleanse,cleanse,water; water droplets; water pistol; plump; large; St. Bernard; drop,タ; タイ,おご.る; にご.る; よな.げる
 汁,140,150,soup,soup,water; water droplets; water pistol; ten; needle,ジュウ,しる; -しる; つゆ
 沙,2296,151,grains of sand,grains of sand,water; water droplets; water pistol; few,サ; シャ,すな; よなげる
-潮,141,152,tide,tide,water; water droplets; water pistol; morning; mist; ten; needle; early; sun; day; moon; month; flesh; part of the body; ten2; needle2,チョウ,しお; うしお
+潮,141,152,tide,tide,water; water droplets; water pistol; morning; mist; ten; needle; early; sun; day; moon; month; flesh; part of the body,チョウ,しお; うしお
 源,142,153,source,source,water; water droplets; water pistol; meadow; cliff; sun; day; small; little,ゲン,みなもと
 活,143,154,lively,lively,water; water droplets; water pistol; tongue; drop; old; tombstone; gravestone; church; ten; needle; mouth,カツ,い.きる; い.かす; い.ける
 消,144,155,extinguish,extinguish,water; water droplets; water pistol; resemblance; spark; candle; small; little; moon; month; flesh; part of the body,ショウ,き.える; け.す
@@ -165,16 +165,16 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 埼,153,164,cape,cape,soil; dirt; ground; strange; large; St. Bernard; street; nail; spike; mouth,キ,さき; さい; みさき
 垣,154,165,hedge,hedge,soil; dirt; ground; span; one; ceiling; sun; day; one; floor; one,エン,かき
 填,2190,166,stuff up,inlay,,,
-圭,155,167,squared jewel,squared jewel,square jewel; ivy; soil; dirt; ground; soil2; dirt2; ground2,ケイ; ケ,
-封,156,168,seal,seal,ivy; square jewel; soil; dirt; ground; glue; soil2; dirt2; ground2,フウ; ホウ,
-涯,157,169,horizon,horizon,water; water droplets; water pistol; cliff; ivy; square jewel; soil; dirt; ground; soil2; dirt2; ground2,ガイ,はて
+圭,155,167,squared jewel,squared jewel,square jewel; ivy; soil; dirt; ground,ケイ; ケ,
+封,156,168,seal,seal,ivy; square jewel; soil; dirt; ground; glue,フウ; ホウ,
+涯,157,169,horizon,horizon,water; water droplets; water pistol; cliff; ivy; square jewel; soil; dirt; ground,ガイ,はて
 寺,158,170,Buddhist temple,Buddhist temple,buddhist temple; soil; dirt; ground; glue,ジ,てら
 時,159,171,time,time,sun; day; Buddhist temple; soil; dirt; ground; glue,ジ,とき; -どき
-均,160,172,level,level,soil; dirt; ground; ladle; drop; drop2,キン,なら.す
+均,160,172,level,level,soil; dirt; ground; ladle; drop,キン,なら.す
 火,161,173,fire,fire,,カ,ひ; -び; ほ-
-炎,162,174,inflammation,inflammation,fire; fire2,エン,ほのお
+炎,162,174,inflammation,inflammation,fire,エン,ほのお
 煩,163,175,anxiety,anxiety,fire; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ハン; ボン,わずら.う; わずら.わす
-淡,164,176,thin,thin,water; water droplets; water pistol; inflammation; fire; fire2,タン,あわ.い
+淡,164,176,thin,thin,water; water droplets; water pistol; inflammation; fire,タン,あわ.い
 灯,165,177,lamp,lamp,fire; street; nail; spike,トウ,ひ; ほ-; ともしび; とも.す; あかり
 畑,166,178,farm,farm,fire; rice field; brains,,はた; はたけ; -ばたけ
 災,167,179,disaster,disaster,stream; flood; fire,サイ,わざわ.い
@@ -206,13 +206,13 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 富,193,205,wealth,wealth,house; one; ceiling; mouth; rice field; brains,フ; フウ,と.む; とみ
 貯,194,206,savings,savings,shellfish; clam; oyster; eye; animal legs; eight; house; street; nail; spike,チョ,た.める; たくわ.える
 木,195,207,tree,tree,wood,ボク; モク,き; こ-
-林,196,208,grove,grove,tree; wood; tree2; wood2,リン,はやし
-森,197,209,forest,forest,tree; wood; tree3; wood3,シン,もり
-桂,198,210,Japanese Judas-tree,Japanese Judas-tree,Japanese Judas tree; tree; wood; ivy; square jewel; soil; dirt; ground; soil2; dirt2; ground2,ケイ,かつら
+林,196,208,grove,grove,tree; wood,リン,はやし
+森,197,209,forest,forest,tree; wood,シン,もり
+桂,198,210,Japanese Judas-tree,Japanese Judas-tree,Japanese Judas tree; tree; wood; ivy; square jewel; soil; dirt; ground,ケイ,かつら
 柏,199,211,oak,oak,tree; wood; white; dove,ハク; ヒャク; ビャク,かしわ
 枠,200,212,frame,frame,tree; wood; ninety; nine; baseball; ten; needle,,わく
 梢,201,213,treetops,treetops,tree; wood; resemblance; spark; candle; small; little; moon; month; flesh; part of the body,ショウ,こずえ; くすのき
-棚,202,214,shelf,shelf,tree; wood; companion; moon; month; flesh; part of the body; moon2; month2; flesh; 2; part of the body2,ホウ,たな; -だな
+棚,202,214,shelf,shelf,tree; wood; companion; moon; month; flesh; part of the body; flesh,ホウ,たな; -だな
 杏,203,215,apricot,apricot,tree; wood; mouth,キョウ; アン; コウ,あんず
 桐,204,216,paulownia,paulownia,tree; wood; same; monks; hood; one; mouth,トウ; ドウ,きり
 植,205,217,plant,plant,tree; wood; straightaway; ten; needle; eye; fishhook,ショク,う.える; う.わる
@@ -224,9 +224,9 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 机,210,223,desk,desk,tree; wood; wind,キ,つくえ
 本,211,224,book,book,tree; wood; one,ホン,もと
 札,212,225,tag,tag,tree; wood; fishhook,サツ,ふだ
-暦,213,226,calendar,calendar,cliff; grove; tree; wood; sun; day; tree2; wood2,レキ,こよみ; りゃく
+暦,213,226,calendar,calendar,cliff; grove; tree; wood; sun; day,レキ,こよみ; りゃく
 案,214,227,plan,plan,relax; house; woman; tree; wood,アン,つくえ
-燥,215,228,parch,parch,fire; furniture; wooden goods; mouth; tree; wood; mouth3,ソウ,はしゃ.ぐ
+燥,215,228,parch,parch,fire; furniture; wooden goods; mouth; tree; wood,ソウ,はしゃ.ぐ
 未,216,229,not yet,not yet,tree; wood; one,ミ; ビ,いま.だ; ま.だ; ひつじ
 末,217,230,extremity,extremity,tree; wood; one,マツ; バツ,すえ
 昧,2445,231,obscure,obscure,sun; not yet; one; tree; wood,マイ; バイ,くら.い; むさぼ.る
@@ -245,7 +245,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 模,229,244,imitation,imitation,tree; wood; graveyard; flowers; sun; day; large; St. Bernard,モ; ボ,
 漠,230,245,vague,vague,water; water droplets; water pistol; graveyard; flowers; sun; day; large; St. Bernard,バク,
 墓,231,246,grave,grave,graveyard; flowers; sun; day; large; St. Bernard; soil; dirt; ground,ボ,はか
-暮,232,247,livelihood,livelihood,graveyard; flowers; sun; day; large; St. Bernard; sun2; day2,ボ,く.れる; く.らす
+暮,232,247,livelihood,livelihood,graveyard; flowers; sun; day; large; St. Bernard,ボ,く.れる; く.らす
 膜,233,248,membrane,membrane,moon; month; flesh; part of the body; graveyard; flowers; sun; day; large; St. Bernard,マク,
 苗,234,249,seedling,seedling,flowers; rice field; brains,ビョウ; ミョウ,なえ; なわ-
 兆,235,250,portent,portent,turtle,チョウ,きざ.す; きざ.し
@@ -285,7 +285,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 主,266,284,lord,lord,drop; king; jewel; ball,シュ; ス; シュウ,ぬし; おも; あるじ
 注,267,285,pour,pour,water; water droplets; water pistol; candlestick; lord; drop; king; jewel; ball,チュウ,そそ.ぐ; さ.す; つ.ぐ
 柱,268,286,pillar,pillar,tree; wood; candlestick; lord; drop; king; jewel; ball,チュウ,はしら
-金,269,287,gold,gold,metal; umbrella; drop; king; jewel; ball; drop2,キン; コン; ゴン,かね; かな-; -がね
+金,269,287,gold,gold,metal; umbrella; drop; king; jewel; ball,キン; コン; ゴン,かね; かな-; -がね
 銑,270,288,pig iron,pig iron,pig-iron; metal; gold; before; cow; human legs,セン,
 鉢,271,289,bowl,bowl,metal; gold; origin; book; tree; wood; one,ハチ; ハツ,
 銅,272,290,copper,copper,metal; gold; same; monks; hood; one; mouth,ドウ,あかがね
@@ -327,7 +327,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 冠,304,326,crown,crown,beginning; two; human legs; glue,カン,かんむり
 夢,305,327,dream,dream,flowers; eye; cross-eyed; net; crown; evening,ム; ボウ,ゆめ; ゆめ.みる; くら.い
 坑,306,328,pit,pit,soil; dirt; ground; whirlwind; top hat; wind,コウ,
-高,307,329,tall,tall,top hat; mouth; alien; hood; mouth; mouth2,コウ,たか.い; たか; -だか; たか.まる; たか.める
+高,307,329,tall,tall,top hat; mouth; alien; hood; mouth,コウ,たか.い; たか; -だか; たか.まる; たか.める
 享,308,330,receive,receive,tall; top hat; mouth; children,キョウ; コウ,う.ける
 塾,309,331,cram school,cram school,receive; tall; top hat; mouth; child; children; round; nine; baseball; drop; soil; dirt; ground,ジュク,
 熟,310,332,mellow,mellow,receive; tall; top hat; mouth; child; children; round; nine; baseball; drop; oven-fire; barbecue,ジュク,う.れる
@@ -356,7 +356,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 故,333,355,happenstance,happenstance,old; tombstone; gravestone; church; ten; needle; mouth; taskmaster,コ,ゆえ; ふる.い; もと
 敬,334,356,awe,awe,flowers; phrase; bound up; mouth; taskmaster,ケイ; キョウ,うやま.う
 言,335,357,say,say,words; keitai; mouth,ゲン; ゴン,い.う; こと
-警,336,358,admonish,admonish,awe; flowers; phrase; bound up; mouth; taskmaster; say; words; keitai; mouth; mouth2,ケイ,いまし.める
+警,336,358,admonish,admonish,awe; flowers; phrase; bound up; mouth; taskmaster; say; words; keitai; mouth,ケイ,いまし.める
 計,337,359,plot,plot,say; words; keitai; mouth; ten; needle,ケイ,はか.る; はか.らう
 詮,2717,360,elucidate,elucidate,say; words; keitai; mouth; whole; umbrella; king; jewel; ball,セン,せん.ずる; かい; あき.らか
 獄,338,361,prison,prison,pack of wild dogs; say; words; keitai; mouth; chihuahua; dog; large; drop,ゴク,
@@ -364,16 +364,16 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 訃,3010,363,obituary,obituary,,フ,"しらせ<span class=""Apple-tab-span"" style=""white-space:pre""> </span>"
 討,340,364,chastise,chastise,say; words; keitai; mouth; glue,トウ,う.つ
 訓,341,365,instruction,instruction,say; words; keitai; mouth; stream; flood,クン; キン,おし.える; よ.む; くん.ずる
-詔,342,366,imperial edict,imperial edict,say; words; keitai; mouth; summon; seduce; sword; dagger; mouth; mouth2,ショウ,みことのり
-詰,343,367,packed,packed,say; words; keitai; mouth; aerosol; good luck; samurai; mouth; mouth2,キツ; キチ,つ.める; つ.め; -づ.め; つ.まる; つ.む
-話,344,368,tale,tale,say; words; keitai; mouth; tongue; thousand; mouth; mouth2,ワ,はな.す; はなし
+詔,342,366,imperial edict,imperial edict,say; words; keitai; mouth; summon; seduce; sword; dagger; mouth,ショウ,みことのり
+詰,343,367,packed,packed,say; words; keitai; mouth; aerosol; good luck; samurai; mouth,キツ; キチ,つ.める; つ.め; -づ.め; つ.まる; つ.む
+話,344,368,tale,tale,say; words; keitai; mouth; tongue; thousand; mouth,ワ,はな.す; はなし
 詠,345,369,recitation,recitation,say; words; keitai; mouth; eternity; drop; water,エイ,よ.む; うた.う
 詩,346,370,poem,poem,say; words; keitai; mouth; Buddhist temple; soil; dirt; ground; glue,シ,うた
-語,347,371,word,word,say; words; keitai; mouth; I; five; mouth; mouth2,ゴ,かた.る; かた.らう
+語,347,371,word,word,say; words; keitai; mouth; I; five; mouth,ゴ,かた.る; かた.らう
 読,348,372,read,read,say; words; keitai; mouth; sell; sale; samurai; paper punch; Miss World; crown; human legs,ドク; トク; トウ,よ.む; -よ.み
-調,349,373,tune,tune,say; words; keitai; mouth; circumference; running track; soil; dirt; ground; mouth; mouth2,チョウ,しら.べる; しら.べ; ととの.う; ととの.える
-談,350,374,discuss,discuss,say; words; keitai; mouth; inflammation; fire; fire2,ダン,
-諾,351,375,consent,consent,say; words; keitai; mouth; young; flowers; by one’s side; mouth; mouth2,ダク,
+調,349,373,tune,tune,say; words; keitai; mouth; circumference; running track; soil; dirt; ground; mouth,チョウ,しら.べる; しら.べ; ととの.う; ととの.える
+談,350,374,discuss,discuss,say; words; keitai; mouth; inflammation; fire,ダン,
+諾,351,375,consent,consent,say; words; keitai; mouth; young; flowers; by one’s side; mouth,ダク,
 諭,352,376,rebuke,rebuke,say; words; keitai; mouth; meeting of butchers; moon; month; flesh; part of the body; sword; sabre; saber,ユ,さと.す
 式,353,377,style,style,arrow; craft,シキ,
 試,354,378,test,test,say; words; keitai; mouth; style; arrow; craft,シ,こころ.みる; ため.す
@@ -400,7 +400,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 頻,373,399,repeatedly,repeatedly,walk; stop; footprint; few; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ヒン,しき.りに
 肯,374,400,agreement,agreement,stop; footprint; moon; month; flesh; part of the body,コウ,がえんじ.る
 企,375,401,undertake,undertake,umbrella; stop; footprint,キ,くわだ.てる; たくら.む
-歴,376,402,curriculum,curriculum,cliff; grove; tree; wood; stop; footprint; tree2; wood2,レキ; レッキ,
+歴,376,402,curriculum,curriculum,cliff; grove; tree; wood; stop; footprint,レキ; レッキ,
 武,377,403,warrior,warrior,one; arrow; stop; footprint,ブ; ム,たけ.し
 賦,378,404,levy,levy,shellfish; clam; oyster; eye; animal legs; eight; warrior; one; stop; footprint; arrow,フ; ブ,
 正,379,405,correct,correct,one; ceiling; stop; footprint,セイ; ショウ,ただ.しい; ただ.す; まさ; まさ.に
@@ -419,7 +419,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 鍵,2761,418,key,key,metal; gold; build; brush; stretch,ケン,かぎ
 延,392,419,prolong,prolong,drop; stop; footprint; stretch,エン,の.びる; の.べる; の.べ; の.ばす
 誕,393,420,nativity,nativity,say; words; keitai; mouth; prolonged; drop; stop; footprint; stretch,タン,
-礎,394,421,cornerstone,cornerstone,stone; rock; grove; tree; wood; zoo; critters; tree2; wood2,ソ,いしずえ
+礎,394,421,cornerstone,cornerstone,stone; rock; grove; tree; wood; zoo; critters,ソ,いしずえ
 婿,395,422,bridegroom,bridegroom,woman; zoo; critters; moon; month; flesh; part of the body,セイ,むこ
 衣,396,423,garment,garment,top hat; scarf; cloth; clothes; clothing,イ; エ,ころも; きぬ; -ぎ
 裁,397,424,tailor,tailor,Thanksgiving; harvest festival; ten; needle; fiesta; top hat; scarf; cloth; clothes; clothing; garment,サイ,た.つ; さば.く
@@ -458,12 +458,12 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 天,428,457,heavens,heavens,one; ceiling; large,テン,あまつ; あめ; あま-
 妖,2078,458,bewitched,bewitched,woman; sapling,ヨウ,あや.しい; なま.めく; わざわ.い
 沃,2079,459,irrigate,irrigate,water; water droplets; water pistol; sapling,ヨウ; ヨク; オク,そそ.ぐ
-橋,429,460,bridge,bridge,tree; wood; angel; heavens; mouth; hood; mouth; mouth2,キョウ,はし
-嬌,430,461,attractive,attractive,woman; angel; heavens; mouth; hood; mouth; mouth2,キョウ,なまめか.しい
+橋,429,460,bridge,bridge,tree; wood; angel; heavens; mouth; hood; mouth,キョウ,はし
+嬌,430,461,attractive,attractive,woman; angel; heavens; mouth; hood; mouth,キョウ,なまめか.しい
 立,431,462,stand up,stand up,vase,リツ; リュウ; リットル,た.つ; -た.つ; た.ち-; た.てる; -た.てる; た.て-; たて-; -た.て; -だ.て; -だ.てる
 泣,432,463,cry,cry,water; water droplets; water pistol; vase; stand up,キュウ,な.く
 章,433,464,badge,badge,vase; stand up; sunflower; early; sun; day; ten; needle,ショウ,
-競,434,465,vie,vie,vase; stand up; elder brother; teenager; mouth; human legs; vase2; stand up2; elder brother2; teenager2; mouth2; human legs2,キョウ; ケイ,きそ.う; せ.る
+競,434,465,vie,vie,vase; stand up; elder brother; teenager; mouth; human legs,キョウ; ケイ,きそ.う; せ.る
 帝,435,466,sovereign,sovereign,vase; stand up; apron; crown; towel,テイ,みかど
 諦,2716,467,give up,renunciation,say; words; keitai; mouth; sovereign; vase; stand up; apron; crown; towel,テイ; タイ,あき.らめる; あきら.める; つまびらか; まこと
 童,436,468,juvenile,juvenile,vase; stand up; computer,ドウ,わらべ
@@ -480,12 +480,12 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 頃,2791,479,about that time,about that time,spoon; sitting on the ground; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ケイ; キョウ,ころ; ごろ; しばら.く
 北,445,480,north,north,spoon; sitting on the ground,ホク,きた
 背,446,481,stature,stature,north; spoon; sitting on the ground; moon; month; flesh; part of the body,ハイ,せ; せい; そむ.く; そむ.ける
-比,447,482,compare,compare,spoon; sitting on the ground; spoon2; sitting on the ground2,ヒ,くら.べる
-昆,448,483,descendants,descendants,sun; day; compare; spoon; sitting on the ground; spoon2; sitting on the ground2,コン,
-皆,449,484,all,all,compare; spoon; sitting on the ground; white; dove; spoon2; sitting on the ground2,カイ,みな; みんな
+比,447,482,compare,compare,spoon; sitting on the ground,ヒ,くら.べる
+昆,448,483,descendants,descendants,sun; day; compare; spoon; sitting on the ground,コン,
+皆,449,484,all,all,compare; spoon; sitting on the ground; white; dove,カイ,みな; みんな
 楷,3011,485,block letters,block letters,,カイ,
 諧,3012,486,orderliness,orderliness,,カイ,かな.う; やわ.らぐ
-混,450,487,mix,mix,water; water droplets; water pistol; descendants; sun; day; compare; spoon; sitting on the ground; spoon2; sitting on the ground2,コン,ま.じる; -ま.じり; ま.ざる; ま.ぜる; こ.む
+混,450,487,mix,mix,water; water droplets; water pistol; descendants; sun; day; compare; spoon; sitting on the ground,コン,ま.じる; -ま.じり; ま.ざる; ま.ぜる; こ.む
 渇,451,488,thirst,thirst,water; water droplets; water pistol; mexican bandit; muchacho; siesta; sun; day; aroma; bound up; spoon; sitting on the ground,カツ,かわ.く
 謁,452,489,audience,audience,say; words; keitai; mouth; mexican bandit; muchacho; siesta; sun; day; aroma; bound up; spoon; sitting on the ground,エツ,
 褐,453,490,brown,brown,cloak; mexican bandit; muchacho; siesta; sun; day; aroma; bound up; spoon; sitting on the ground,カツ,
@@ -500,24 +500,24 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 梅,460,499,plum,plum,tree; wood; every; reclining; lying down; mother; breasts,バイ,うめ
 海,461,500,sea,sea,water; water droplets; water pistol; every; reclining; lying down; mother; breasts,カイ,うみ
 乞,462,501,beg,beg,reclining; lying down; fishhook,コツ; キツ; キ; キケ; コチ,こ.う
-乾,463,502,drought,drought,mist; ten; needle; early; sun; day; beg; reclining; lying down; fishhook; ten2; needle2,カン; ケン,かわ.く; かわ.かす; ほ.す; ひ.る; いぬい
+乾,463,502,drought,drought,mist; ten; needle; early; sun; day; beg; reclining; lying down; fishhook,カン; ケン,かわ.く; かわ.かす; ほ.す; ひ.る; いぬい
 腹,464,503,abdomen,abdomen,moon; month; flesh; part of the body; fold back; double back; reclining; lying down; sun; day; walking legs,フク,はら
 複,465,504,duplicate,duplicate,cloak; fold back; double back; reclining; lying down; sun; day; walking legs,フク,
 欠,466,505,lack,lack,yawn,ケツ; ケン,か.ける; か.く; あくび
 吹,467,506,blow,blow,mouth; lack; yawn,スイ,ふ.く
 炊,468,507,cook,cook,fire; lack; yawn,スイ,た.く; -だ.き
-歌,469,508,song,song,cancan; can; mouth; street; nail; spike; lack; yawn; can2; mouth2; street2; nail2; spike2,カ,うた; うた.う
+歌,469,508,song,song,cancan; can; mouth; street; nail; spike; lack; yawn,カ,うた; うた.う
 軟,470,509,soft,soft,car; lack; yawn,ナン,やわ.らか; やわ.らかい
 次,471,510,next,next,ice; lack; yawn,ジ; シ,つ.ぐ; つぎ
 茨,472,511,briar,briar,flowers; next; ice; lack; yawn,シ; ジ,いばら; かや; くさぶき
 資,473,512,assets,assets,next; ice; lack; yawn; shellfish; clam; oyster; eye; animal legs; eight,シ,
 姿,474,513,figure,figure,next; ice; lack; yawn; woman,シ,すがた
-諮,475,514,consult with,consult with,say; words; keitai; mouth; next; ice; lack; yawn; mouth; mouth2,シ,はか.る
+諮,475,514,consult with,consult with,say; words; keitai; mouth; next; ice; lack; yawn; mouth,シ,はか.る
 賠,476,515,compensation,compensation,shellfish; clam; oyster; eye; animal legs; eight; muzzle; vase; stand up; mouth,バイ,
 培,477,516,cultivate,cultivate,soil; dirt; ground; muzzle; vase; stand up; mouth,バイ,つちか.う
 剖,478,517,divide,divide,muzzle; vase; stand up; mouth; sword; sabre; saber,ボウ,
 音,479,518,sound,sound,vase; stand up; sun; day; tongue wagging,オン; イン; ノン,おと; ね
-暗,480,519,darkness,darkness,sun; day; sound; vase; stand up; sun; day; sun2; day2,アン,くら.い; くら.む; くれ.る
+暗,480,519,darkness,darkness,sun; day; sound; vase; stand up; sun; day,アン,くら.い; くら.む; くれ.る
 韻,481,520,rhyme,rhyme,sound; vase; stand up; sun; day; employee; mouth; shellfish; clam; oyster; eye; animal legs; eight,イン,
 識,482,521,discriminating,discriminating,say; words; keitai; mouth; kazoo; sound; vase; stand up; sun; day; fiesta,シキ,し.る; しる.す
 鏡,483,522,mirror,mirror,metal; gold; vase; stand up; sun; day; human legs,キョウ; ケイ,かがみ
@@ -542,12 +542,12 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 増,502,541,increase,increase,soil; dirt; ground; formerly; horns; rice field; brains; sun; day,ゾウ,ま.す; ま.し; ふ.える; ふ.やす
 贈,503,542,presents,presents,shellfish; clam; oyster; eye; animal legs; eight; increase; formerly; horns; rice field; brains; sun; day,ゾウ; ソウ,おく.る
 東,504,543,east,east,sun; day; tree; wood,トウ,ひがし
-棟,505,544,ridgepole,ridgepole,tree; wood; east; tree; wood; sun; day; tree2; wood2,トウ,むね; むな-
+棟,505,544,ridgepole,ridgepole,tree; wood; east; tree; wood; sun; day,トウ,むね; むな-
 凍,506,545,frozen,frozen,ice; east; tree; wood; sun; day,トウ,こお.る; こご.える; こご.る; い.てる; し.みる
 妊,507,546,pregnancy,pregnancy,woman; porter; drop; samurai,ニン; ジン,はら.む; みごも.る
 廷,508,547,courts,courts,porter; drop; samurai; stretch,テイ,
 染,509,548,dye,dye,water; water droplets; water pistol; nine; baseball; tree; wood,セン,そ.める; -ぞ.め; -ぞめ; そ.まる; し.みる; -じ.みる; し.み; -し.める
-燃,510,549,burn,burn,fire; sort of thing; moon; crescent moon; month; flesh; part of the body; chihuahua; dog; large; drop; oven-fire; barbecue; fire2,ネン,も.える; も.やす; も.す
+燃,510,549,burn,burn,fire; sort of thing; moon; crescent moon; month; flesh; part of the body; chihuahua; dog; large; drop; oven-fire; barbecue,ネン,も.える; も.やす; も.す
 賓,511,550,V.I.P.,V.I.P.,house; one; ceiling; few; shellfish; clam; oyster; eye; animal legs; eight,ヒン,
 歳,512,551,year-end,year-end,year end; stop; footprint; one; little; small; march,サイ; セイ,とし; とせ; よわい
 県,513,552,prefecture,prefecture,eye; fishhook; small; little,ケン,か.ける
@@ -635,8 +635,8 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 庭,590,634,courtyard,courtyard,cave; courts; porter; drop; samurai; stretch,テイ,にわ
 庁,591,635,government office,government office,cave; street; nail; spike,チョウ; テイ,やくしょ
 床,592,636,bed,bed,cave; tree; wood,ショウ,とこ; ゆか
-麻,593,637,hemp,hemp,cave; grove; tree; wood; tree2; wood2,マ; マア,あさ
-磨,594,638,grind,grind,hemp; cave; grove; tree; wood; stone; rock; tree2; wood2,マ,みが.く; す.る
+麻,593,637,hemp,hemp,cave; grove; tree; wood,マ; マア,あさ
+磨,594,638,grind,grind,hemp; cave; grove; tree; wood; stone; rock,マ,みが.く; す.る
 心,595,639,heart,heart,drops; fishhook,シン,こころ; -ごころ; りっしんべん
 忘,596,640,forget,forget,perish; deceased; top hat; fishhook; heart,ボウ,わす.れる
 恣,3014,641,selfish,selfish,,シ,ほしいまま
@@ -647,8 +647,8 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 誌,601,646,document,document,say; words; keitai; mouth; intention; samurai; heart,シ,
 芯,2368,647,wick,wick,flowers; heart,シン,
 忠,602,648,loyalty,loyalty,in; stick; mouth; heart,チュウ,
-串,603,649,shish kebab,shish kebab,kebab; in; stick; mouth; mouth2,カン; ケン; セン,くし; つらぬ.く
-患,604,650,afflicted,afflicted,kebab; in; stick; mouth; heart; mouth2,カン,わずら.う
+串,603,649,shish kebab,shish kebab,kebab; in; stick; mouth,カン; ケン; セン,くし; つらぬ.く
+患,604,650,afflicted,afflicted,kebab; in; stick; mouth; heart,カン,わずら.う
 思,605,651,think,think,rice field; brains; heart,シ,おも.う; おもえら.く; おぼ.す
 恩,606,652,grace,grace,cause; pent in; large; St. Bernard; heart,オン,
 応,607,653,apply,apply,cave; heart,オウ; ヨウ; ノウ,あた.る; まさに; こた.える
@@ -683,11 +683,11 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 憬,3016,682,hanker,hanker,,ケイ,あこが.れる
 慕,633,683,pining,pining,graveyard; flowers; sun; day; large; St. Bernard; valentine,ボ,した.う
 添,634,684,annexed,annexed,water; water droplets; water pistol; heavens; valentine,テン,そ.える; そ.う; も.える; も.う
-必,635,685,invariably,invariably,heart; stick; drop; fishhook; drop3,ヒツ,かなら.ず
-泌,636,686,ooze,ooze,water; water droplets; water pistol; invariably; heart; stick; drop; fishhook; drop3,ヒツ; ヒ,
+必,635,685,invariably,invariably,heart; stick; drop; fishhook,ヒツ,かなら.ず
+泌,636,686,ooze,ooze,water; water droplets; water pistol; invariably; heart; stick; drop; fishhook,ヒツ; ヒ,
 手,637,687,hand,hand,,シュ; ズ,て; て-; -て; た-
 看,638,688,watch over,watch over,hand; eye,カン,み.る
-摩,639,689,chafe,chafe,hemp; cave; grove; tree; wood; hand; tree2; wood2,マ,ま.する; さ.する; す.る
+摩,639,689,chafe,chafe,hemp; cave; grove; tree; wood; hand,マ,ま.する; さ.する; す.る
 我,640,690,ego,ego,hand; fiesta,ガ,われ; わ; わ.が-; わが-
 義,641,691,righteousness,righteousness,sheep; ego; hand; fiesta,ギ,
 議,642,692,deliberation,deliberation,say; words; keitai; mouth; righteousness; sheep; ego; hand; fiesta,ギ,
@@ -699,7 +699,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 搭,646,698,board,board,finger; fingers; flowers; fit; meeting; umbrella; one; mouth,トウ,
 抄,647,699,extract,extract,finger; fingers; few,ショウ,
 抗,648,700,confront,confront,finger; fingers; whirlwind; top hat; wind,コウ,
-批,649,701,criticism,criticism,finger; fingers; compare; spoon; sitting on the ground; spoon2; sitting on the ground2,ヒ,
+批,649,701,criticism,criticism,finger; fingers; compare; spoon; sitting on the ground,ヒ,
 招,650,702,beckon,beckon,finger; fingers; summon; seduce; sword; dagger; mouth,ショウ,まね.く
 拓,651,703,clear the land,clear the land,finger; fingers; stone; rock,タク,ひら.く
 拍,652,704,clap,clap,finger; fingers; white; dove,ハク; ヒョウ,
@@ -722,10 +722,10 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 担,668,721,shouldering,shouldering,finger; fingers; nightbreak; sun; day; one; floor,タン,かつ.ぐ; にな.う
 拠,669,722,foothold,foothold,finger; fingers; dispose; walking legs; wind,キョ; コ,よ.る
 描,670,723,sketch,sketch,finger; fingers; seedlings; flowers; rice field; brains,ビョウ,えが.く; か.く
-操,671,724,maneuver,maneuver,finger; fingers; wooden goods; furniture; goods; mouth; tree; wood; mouth3,ソウ; サン,みさお; あやつ.る
+操,671,724,maneuver,maneuver,finger; fingers; wooden goods; furniture; goods; mouth; tree; wood,ソウ; サン,みさお; あやつ.る
 接,672,725,touch,touch,finger; fingers; concubine; vase; stand up; woman,セツ; ショウ,つ.ぐ
 掲,673,726,put up a notice,put up a notice,put up (a notice); finger; fingers; mexican bandit; muchacho; siesta; sun; day; aroma; bound up; spoon; sitting on the ground,ケイ,かか.げる
-掛,674,727,hang,hang,finger; fingers; ivy; square jewel; soil; dirt; ground; magic wand; augury; soil2; dirt2; ground2,カイ; ケイ,か.ける; -か.ける; か.け; -か.け; -が.け; か.かる; -か.かる; -が.かる; か.かり; -が.かり; かかり; -がかり
+掛,674,727,hang,hang,finger; fingers; ivy; square jewel; soil; dirt; ground; magic wand; augury,カイ; ケイ,か.ける; -か.ける; か.け; -か.け; -が.け; か.かる; -か.かる; -が.かる; か.かり; -が.かり; かかり; -がかり
 捗,2269,728,make headway,make headway,finger; fingers; walk; stop; footprint; few,チョク; ホ,はかど.る
 研,675,729,polish,polish,stone; rock; two hands,ケン,と.ぐ
 戒,676,730,commandment,commandment,two hands; fiesta,カイ,いまし.める
@@ -751,8 +751,8 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 硬,695,750,stiff,stiff,stone; rock; grow late; Ameratasu; one; ceiling; sun; tucked under the arm,コウ,かた.い
 梗,2498,751,spiny,spiny,tree; wood; grow late; Ameratasu; one; ceiling; sun; tucked under the arm,コウ; キョウ,ふさぐ; やまにれ; おおむね
 又,696,752,or again,or again,crotch,ユウ,また; また-; また.の-
-双,697,753,pair,pair,crotch; crotch2,ソウ,ふた; たぐい; ならぶ; ふたつ
-桑,698,754,mulberry,mulberry,crotch; tree; wood; crotch3,ソウ,くわ
+双,697,753,pair,pair,crotch,ソウ,ふた; たぐい; ならぶ; ふたつ
+桑,698,754,mulberry,mulberry,crotch; tree; wood,ソウ,くわ
 隻,699,755,vessels,vessels,turkey; crotch,セキ,
 護,700,756,safeguard,safeguard,say; words; keitai; mouth; radio caroline; flowers; vessels; turkey; crotch,ゴ,まも.る
 獲,701,757,seize,seize,pack of wild dogs; radio caroline; flowers; vessels; turkey; crotch,カク,え.る
@@ -765,7 +765,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 股,2454,764,thigh,thigh,moon; month; flesh; part of the body; cruise missile; missile; wind; crotch,コ,また; もも
 設,708,765,establishment,establishment,say; words; keitai; mouth; cruise missile; missile; wind; crotch,セツ,もう.ける
 撃,709,766,beat,beat,tank; car; cruise missile; missile; wind; crotch; hand,ゲキ,う.つ
-殻,710,767,husk,husk,samurai; superfluous; crown; wind; cruise missile; missile; wind; crotch; wind2,カク; コク; バイ,から; がら
+殻,710,767,husk,husk,samurai; superfluous; crown; wind; cruise missile; missile; wind; crotch,カク; コク; バイ,から; がら
 支,711,768,branch,branch,ten; needle; crotch,シ,ささ.える; つか.える; か.う; しんよう; じゅうまた
 技,712,769,skill,skill,finger; fingers; branch; ten; needle; crotch,ギ,わざ
 枝,713,770,bough,bough,tree; wood; branch; ten; needle; crotch,シ,えだ
@@ -834,12 +834,12 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 炭,771,833,charcoal,charcoal,mountain; ashes; cliff; fire,タン,すみ
 岐,772,834,branch off,branch off,mountain; branch; ten; needle; crotch,キ; ギ,
 峠,773,835,mountain peak,mountain pass,mountain; above; below,,とうげ
-崩,774,836,crumble,crumble,mountain; companion; moon; month; flesh; part of the body; moon2; month2; flesh2; part of the body2,ホウ,くず.れる; -くず.れ; くず.す
+崩,774,836,crumble,crumble,mountain; companion; moon; month; flesh; part of the body,ホウ,くず.れる; -くず.れ; くず.す
 密,775,837,secrecy,secrecy,house; invariably; heart; mountain,ミツ,ひそ.か
 蜜,776,838,honey,honey,house; invariably; heart; insect,ミツ; ビツ,
 嵐,777,839,storm,storm,mountain; wind; gnats; drop; insect,ラン,あらし
 崎,778,840,promontory,promontory,mountain; strange; large; St. Bernard; can; street; nail; spike; mouth,キ,さき; さい; みさき
-崖,2227,841,bluffs,bluffs,mountain; cliff; ivy; square jewel; soil; dirt; ground; soil2; dirt2; ground2,ガイ; ゲ; ギ,がけ; きし; はて
+崖,2227,841,bluffs,bluffs,mountain; cliff; ivy; square jewel; soil; dirt; ground,ガイ; ゲ; ギ,がけ; きし; はて
 入,779,842,enter,enter,,ニュウ; ジュ,い.る; -い.る; -い.り; い.れる; -い.れ; はい.る
 込,780,843,crowded,crowded,enter; road,,こ.み; -こ.み; -こ.む; こ.む; こ.める
 分,781,844,part,part,eight; sword; dagger,ブン; フン; ブ,わ.ける; わ.け; わ.かれる; わ.かる; わ.かつ
@@ -903,9 +903,9 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 扶,839,902,aid,aid,finger; fingers; husband,フ,たす.ける
 渓,840,903,mountain stream,mountain stream,water; water droplets; water pistol; claw; vulture; husband,ケイ,たに; たにがわ
 規,841,904,standard,standard,husband; see; telescope; eye; human legs,キ,
-替,842,905,exchange,exchange,husband; sun; day; tongue wagging; husband2,タイ,か.える; か.え-; か.わる
-賛,843,906,approve,approve,husband; shellfish; clam; oyster; eye; animal legs; eight; husband2,サン,たす.ける; たた.える
-潜,844,907,submerge,submerge,water; water droplets; water pistol; exchange; husband; sun; day; tongue wagging; husband2,セン,ひそ.む; もぐ.る; かく.れる; くぐ.る; ひそ.める
+替,842,905,exchange,exchange,husband; sun; day; tongue wagging,タイ,か.える; か.え-; か.わる
+賛,843,906,approve,approve,husband; shellfish; clam; oyster; eye; animal legs; eight,サン,たす.ける; たた.える
+潜,844,907,submerge,submerge,water; water droplets; water pistol; exchange; husband; sun; day; tongue wagging,セン,ひそ.む; もぐ.る; かく.れる; くぐ.る; ひそ.める
 失,845,908,lose,lose,drop; husband,シツ,うしな.う; う.せる
 鉄,846,909,iron,iron,metal; gold; lose; drop; husband,テツ,くろがね
 迭,847,910,alternate,alternate,transfer; lose; drop; husband; road,テツ,
@@ -916,7 +916,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 賢,852,915,intelligent,intelligent,loincloth; retainer; slave; crotch; shellfish; clam; oyster; eye; animal legs; eight,ケン,かしこ.い
 腎,2453,916,kidney,kidney,loincloth; retainer; slave; crotch; moon; month; flesh; part of the body,ジン,
 堅,853,917,strict,strict,loincloth; retainer; slave; crotch; soil; dirt; ground,ケン,かた.い; -がた.い
-臨,854,918,look to,look to,retainer; slave; reclining; lying down; goods; mouth; mouth3,リン,のぞ.む
+臨,854,918,look to,look to,retainer; slave; reclining; lying down; goods; mouth,リン,のぞ.む
 覧,855,919,perusal,perusal,retainer; slave; reclining; lying down; one; floor; look; see; telescope; eye; human legs,ラン,み.る
 巨,856,920,gigantic,gigantic,Fafner,キョ,
 拒,857,921,repel,repel,finger; fingers; gigantic; Fafner,キョ; ゴ,こば.む
@@ -933,9 +933,9 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 加,867,932,add,add,power; muscle; arnold; mouth,カ,くわ.える; くわ.わる
 賀,868,933,congratulations,congratulations,add; power; muscle; arnold; mouth; shellfish; clam; oyster; eye; animal legs; eight,ガ,
 架,869,934,erect,erect,add; power; muscle; arnold; mouth; tree; wood,カ,か.ける; か.かる
-脇,870,935,armpit,armpit,moon; month; flesh; part of the body; triceps; power; muscle; arnold; power3; muscle3; arnold3,キョウ,わき; わけ
-脅,871,936,threaten,threaten,triceps; power; muscle; arnold; moon; month; flesh; part of the body; power3; muscle3; arnold3,キョウ,おびや.かす; おど.す; おど.かす
-協,872,937,co-,co-,ten; needle; triceps; power; muscle; arnold; power3; muscle3; arnold3,キョウ,
+脇,870,935,armpit,armpit,moon; month; flesh; part of the body; triceps; power; muscle; arnold,キョウ,わき; わけ
+脅,871,936,threaten,threaten,triceps; power; muscle; arnold; moon; month; flesh; part of the body,キョウ,おびや.かす; おど.す; おど.かす
+協,872,937,co-,co-,ten; needle; triceps; power; muscle; arnold,キョウ,
 行,873,938,going,going,boulevard,コウ; ギョウ; アン,い.く; ゆ.く; -ゆ.き; -ゆき; -い.き; -いき; おこな.う; おこ.なう
 律,874,939,rhythm,rhythm,Nelson; column; going; line; brush,リツ; リチ; レツ,
 復,875,940,restore,restore,Nelson; column; going; line; fold back; double back; reclining; lying down; sun; day; walking legs,フク,また
@@ -953,16 +953,16 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 徴,887,952,indications,indications,sherpa; Nelson; column; going; line; mountain; king; jewel; ball; taskmaster,チョウ; チ,しるし
 懲,888,953,penal,penal,indications; sherpa; Nelson; column; going; line; mountain; king; jewel; ball; taskmaster; heart,チョウ,こ.りる; こ.らす; こ.らしめる
 微,889,954,delicate,delicate,sherpa; Nelson; column; going; line; mountain; one; ceiling; human legs; taskmaster,ビ,かす.か
-街,890,955,boulevard,boulevard,going; ivy; square jewel; soil; dirt; ground; soil2; dirt2; ground2,ガイ; カイ,まち
+街,890,955,boulevard,boulevard,going; ivy; square jewel; soil; dirt; ground,ガイ; カイ,まち
 桁,2483,956,girder,girder,tree; wood; going,コウ,けた
 衡,891,957,equilibrium,equilibrium,boulevard; going; bound up; rice field; brains; large; St. Bernard,コウ,
-稿,892,958,draft,draft,wheat; cereal; tall; top hat; mouth; hood; mouth; mouth2,コウ,わら; したがき
+稿,892,958,draft,draft,wheat; cereal; tall; top hat; mouth; hood; mouth,コウ,わら; したがき
 稼,893,959,earnings,earnings,wheat; cereal; house; sow; pig,カ,かせ.ぐ
 程,894,960,extent,extent,wheat; cereal; display; mouth; king; jewel; ball,テイ,ほど; -ほど
 税,895,961,tax,tax,wheat; cereal; devil; horns; elder brother; teenager; mouth; human legs,ゼイ,
 稚,896,962,immature,immature,wheat; cereal; turkey,チ; ジ,いとけない; おさない; おくて; おでる
 和,897,963,harmony,harmony,wheat; cereal; mouth,ワ; オ; カ,やわ.らぐ; やわ.らげる; なご.む; なご.やか
-移,898,964,shift,shift,wheat; cereal; many; evening; evening2,イ,うつ.る; うつ.す
+移,898,964,shift,shift,wheat; cereal; many; evening,イ,うつ.る; うつ.す
 秒,899,965,second,second,wheat; cereal; few,ビョウ,
 秋,900,966,autumn,autumn,wheat; cereal; fire,シュウ,あき; とき
 愁,901,967,distress,distress,autumn; wheat; cereal; fire; heart,シュウ,うれ.える; うれ.い
@@ -1023,7 +1023,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 篭,2638,1022,cage,basket,,,
 人,951,1023,person,person,,ジン; ニン,ひと; -り; -と
 佐,952,1024,assistant,assistant,person; left; by one’s side; craft,サ,
-侶,2121,1025,partner,partner,person; spine; mouth; drop; mouth; mouth2,リョ; ロ,とも
+侶,2121,1025,partner,partner,person; spine; mouth; drop; mouth,リョ; ロ,とも
 但,953,1026,however,however,person; nightbreak; sun; day; one; floor,タン,ただ.し
 住,954,1027,dwell,dwell,person; candlestick; lord; drop; king; jewel; ball,ジュウ; ヂュウ; チュウ,す.む; す.まう; -ず.まい
 位,955,1028,rank,rank,person; vase; stand up,イ,くらい; ぐらい
@@ -1042,7 +1042,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 伯,967,1041,chief,chief,person; white; dove,ハク,
 俗,968,1042,vulgar,vulgar,person; valley; eight; umbrella; mouth,ゾク,
 信,969,1043,faith,faith,person; say; words; keitai; mouth,シン,
-佳,970,1044,excellent,excellent,person; ivy; square jewel; soil; dirt; ground; soil2; dirt2; ground2,カ,
+佳,970,1044,excellent,excellent,person; ivy; square jewel; soil; dirt; ground,カ,
 依,971,1045,reliant,reliant,person; cloth; clothes; clothing; garment,イ; エ,よ.る
 例,972,1046,example,example,person; file; bones; one; ceiling; evening; sword; sabre; saber,レイ,たと.える
 個,973,1047,individual,individual,person; harden; pent in; old; tombstone; gravestone; church; ten; needle; mouth,コ; カ,
@@ -1096,20 +1096,20 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 内,1019,1095,inside,inside,person; belt,ナイ; ダイ,うち
 丙,1020,1096,third class,third class,one; ceiling; inside; person; belt,ヘイ,ひのえ
 柄,1021,1097,design,design,tree; wood; third class; one; ceiling; inside; person; belt,ヘイ,がら; え; つか
-肉,1022,1098,meat,meat,person; inside; belt; person; person2,ニク,しし
-腐,1023,1099,rot,rot,borough; municipality; cave; adhere; sellotape; person; glue; meat; inside; belt; person; person2,フ,くさ.る; -くさ.る; くさ.れる; くさ.れ; くさ.らす; くさ.す
-座,1024,1100,sit,sit,squat; cave; shire; assembly line; person; soil; dirt; ground; person2,ザ,すわ.る
-挫,2845,1101,sprain,sprain,finger; fingers; sitting in meditation; assembly line; person; soil; dirt; ground; person2,ザ; サ,くじ.く; くじ.ける
-卒,1025,1102,graduate,graduate,top hat; assembly line; person; ten; needle; person2,ソツ; シュツ,そっ.する; お.える; お.わる; ついに; にわか
-傘,1026,1103,umbrella,umbrella,assembly line; person; ten; needle; person4; assembly line2,サン,かさ
+肉,1022,1098,meat,meat,person; inside; belt; person,ニク,しし
+腐,1023,1099,rot,rot,borough; municipality; cave; adhere; sellotape; person; glue; meat; inside; belt; person,フ,くさ.る; -くさ.る; くさ.れる; くさ.れ; くさ.らす; くさ.す
+座,1024,1100,sit,sit,squat; cave; shire; assembly line; person; soil; dirt; ground,ザ,すわ.る
+挫,2845,1101,sprain,sprain,finger; fingers; sitting in meditation; assembly line; person; soil; dirt; ground,ザ; サ,くじ.く; くじ.ける
+卒,1025,1102,graduate,graduate,top hat; assembly line; person; ten; needle,ソツ; シュツ,そっ.する; お.える; お.わる; ついに; にわか
+傘,1026,1103,umbrella,umbrella,assembly line; person; ten; needle,サン,かさ
 匁,1027,1104,monme,monme,bound up; tucked under the arm,,もんめ; め
 以,1028,1105,by means of,by means of,plow; drop; person,イ,もっ.て
 似,1029,1106,similar,similar,becoming; person; by means of; plow; drop; person,ジ,に.る; ひ.る
 併,1030,1107,join,join,person; puzzle; horns; two hands,ヘイ,あわ.せる
 瓦,1031,1108,tile,tile,one; ceiling; cane; stick; drop; fishhook; ice,ガ,かわら; ぐらむ
 瓶,1032,1109,flower pot,flower pot,puzzle; horns; two hands; tile; one; ceiling; cane; stick; drop; fishhook; ice,ビン,かめ
-宮,1033,1110,Shinto shrine,Shinto shrine,shinto shrine; house; spine; mouth; drop; mouth2,キュウ; グウ; ク; クウ,みや
-営,1034,1111,occupation,occupation,schoolhouse; owl; crown; spine; mouth; drop; mouth2,エイ,いとな.む; いとな.み
+宮,1033,1110,Shinto shrine,Shinto shrine,shinto shrine; house; spine; mouth; drop,キュウ; グウ; ク; クウ,みや
+営,1034,1111,occupation,occupation,schoolhouse; owl; crown; spine; mouth; drop,エイ,いとな.む; いとな.み
 善,1035,1112,virtuous,virtuous,sheep; horns; mouth,ゼン,よ.い; い.い; よ.く; よし.とする
 膳,2468,1113,dining tray,dining tray,moon; month; flesh; part of the body; virtuous; sheep; horns; mouth,ゼン; セン,かしわ; すす.める; そな.える
 年,1036,1114,year,year,sign of the horse; sunglasses,ネン,とし
@@ -1177,8 +1177,8 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 尉,1095,1176,military officer,military officer,flag; altar; show; two; small; glue,イ; ジョウ,
 慰,1096,1177,consolation,consolation,military officer; flag; altar; show; two; small; glue; heart,イ,なぐさ.める; なぐさ.む
 款,1097,1178,goodwill,goodwill,samurai; altar; show; two; small; lack; yawn,カン,
-禁,1098,1179,prohibition,prohibition,grove; tree; wood; altar; show; two; small; tree2; wood2,キン,
-襟,1099,1180,collar,collar,cloak; prohibition; grove; tree; wood; altar; show; two; small; tree2; wood2,キン,えり
+禁,1098,1179,prohibition,prohibition,grove; tree; wood; altar; show; two; small,キン,
+襟,1099,1180,collar,collar,cloak; prohibition; grove; tree; wood; altar; show; two; small,キン,えり
 宗,1100,1181,religion,religion,house; altar; show; two; small,シュウ; ソウ,むね
 崇,1101,1182,adore,adore,mountain; religion; house; altar; show; two; small,スウ,あが.める
 祭,1102,1183,ritual,ritual,moon; month; flesh; part of the body; crotch; altar; show; two; small,サイ,まつ.る; まつ.り; まつり
@@ -1217,7 +1217,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 暫,1134,1216,temporarily,temporarily,executioner; chop off; car; axe; sun; day,ザン,しばら.く
 漸,1135,1217,steadily,steadily,water; water droplets; water pistol; executioner; chop off; car; axe,ゼン,やや
 断,1136,1218,severance,severance,fishhook; rice; axe,ダン,た.つ; ことわ.る; さだ.める
-質,1137,1219,substance,substance,axe; shellfish; clam; oyster; eye; animal legs; eight; axe2,シツ; シチ; チ,たち; ただ.す; もと; わりふ
+質,1137,1219,substance,substance,axe; shellfish; clam; oyster; eye; animal legs; eight,シツ; シチ; チ,たち; ただ.す; もと; わりふ
 斥,1138,1220,reject,reject,axe; drop,セキ,しりぞ.ける
 訴,1139,1221,accusation,accusation,say; words; keitai; mouth; reject; axe; drop,ソ,うった.える
 昨,1140,1222,yesterday,yesterday,sun; day; saw,サク,
@@ -1278,12 +1278,12 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 席,1193,1277,seat,seat,caverns; cave; twenty; towel,セキ,むしろ
 度,1194,1278,degrees,degrees,caverns; cave; twenty; crotch,ド; ト; タク,たび; -た.い
 渡,1195,1279,transit,transit,water; water droplets; water pistol; degrees; caverns; cave; twenty; crotch,ト,わた.る; -わた.る; わた.す
-奔,1196,1280,bustle,bustle,large; St. Bernard; haystack; ten; needle; needle3; ten3,ホン,はし.る
-噴,1197,1281,erupt,erupt,mouth; pitchfork; haystack; ten; needle; shellfish; clam; oyster; eye; animal legs; eight; needle3; ten3,フン,ふ.く
-墳,1198,1282,tomb,tomb,soil; dirt; ground; pitchfork; haystack; ten; needle; shellfish; clam; oyster; eye; animal legs; eight; needle3; ten3,フン,
-憤,1199,1283,aroused,aroused,Freud; state of mind; pitchfork; haystack; ten; needle; shellfish; clam; oyster; eye; animal legs; eight; needle3; ten3,フン,いきどお.る
-焼,1200,1284,bake,bake,hearth fire; lofty; strawman; wickerman; haystack; ten; needle; one; human legs; needle3; ten3,ショウ,や.く; や.き; や.き-; -や.き; や.ける
-暁,1201,1285,daybreak,daybreak,sun; lofty; strawman; wickerman; haystack; ten; needle; one; human legs; needle3; ten3,ギョウ; キョウ,あかつき; さと.る
+奔,1196,1280,bustle,bustle,large; St. Bernard; haystack; ten; needle,ホン,はし.る
+噴,1197,1281,erupt,erupt,mouth; pitchfork; haystack; ten; needle; shellfish; clam; oyster; eye; animal legs; eight,フン,ふ.く
+墳,1198,1282,tomb,tomb,soil; dirt; ground; pitchfork; haystack; ten; needle; shellfish; clam; oyster; eye; animal legs; eight,フン,
+憤,1199,1283,aroused,aroused,Freud; state of mind; pitchfork; haystack; ten; needle; shellfish; clam; oyster; eye; animal legs; eight,フン,いきどお.る
+焼,1200,1284,bake,bake,hearth fire; lofty; strawman; wickerman; haystack; ten; needle; one; human legs,ショウ,や.く; や.き; や.き-; -や.き; や.ける
+暁,1201,1285,daybreak,daybreak,sun; lofty; strawman; wickerman; haystack; ten; needle; one; human legs,ギョウ; キョウ,あかつき; さと.る
 半,1202,1286,half,half,small; ten; needle,ハン,なか.ば
 伴,1203,1287,consort,consort,person; half,ハン; バン,ともな.う
 畔,1204,1288,paddy ridge,paddy ridge,paddy-ridge; rice field; brains; half,ハン,あぜ; くろ; ほとり
@@ -1304,7 +1304,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 否,1218,1303,negate,negate,negative; mouth,ヒ,いな; いや
 杯,1219,1304,cupfuls,cupfuls,tree; wood; negative,ハイ,さかずき
 矢,1220,1305,dart,dart,drop; heavens,シ,や
-矯,1221,1306,rectify,rectify,dart; drop; heavens; angel; heavens; mouth; hood; mouth; mouth2,キョウ,た.める
+矯,1221,1306,rectify,rectify,dart; drop; heavens; angel; heavens; mouth; hood; mouth,キョウ,た.める
 族,1222,1307,tribe,tribe,banner; direction; compass; direction; reclining; lying down; dart; drop; heavens,ゾク,
 知,1223,1308,know,know,dart; drop; heavens; mouth,チ,し.る; し.らせる
 智,1224,1309,wisdom,wisdom,know; dart; drop; heavens; mouth; sun; day; tongue wagging,チ,
@@ -1313,7 +1313,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 柔,1226,1312,tender,tender,halberd; beforehand; tree; wood,ジュウ; ニュウ,やわ.らか; やわ.らかい; やわ; やわ.ら
 務,1227,1313,task,task,halberd; beforehand; taskmaster; power; muscle; arnold,ム,つと.める
 霧,1228,1314,fog,fog,rain; weather; task; halberd; beforehand; taskmaster; power; muscle; arnold,ム; ボウ; ブ,きり
-班,1229,1315,squad,squad,sword; spear; cutlass; king; jewel; ball; king2; jewel2; ball2,ハン,
+班,1229,1315,squad,squad,sword; spear; cutlass; king; jewel; ball,ハン,
 帰,1230,1316,homecoming,homecoming,sword; spear; cutlass; feather duster; broom; apron; crown; towel,キ,かえ.る; かえ.す; おく.る; とつ.ぐ
 弓,1231,1317,bow,bow,,キュウ,ゆみ
 引,1232,1318,pull,pull,bow; stick,イン,ひ.く; ひ.き; ひ.き-; -び.き; ひ.ける
@@ -1321,17 +1321,17 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 弘,1234,1320,vast,vast,bow; elbow,コウ; グ,ひろ.い
 強,1235,1321,strong,strong,bow; elbow; insect,キョウ; ゴウ,つよ.い; つよ.まる; つよ.める; し.いる; こわ.い
 弥,2241,1322,more and more,more and more,bow; hammock; reclining; lying down; small; little,ミ; ビ,いや; や; あまねし; いよいよ; とおい; ひさし; ひさ.しい; わた.る
-弱,1236,1323,weak,weak,bow; ice; bow2; ice2,ジャク,よわ.い; よわ.る; よわ.まる; よわ.める
-溺,2308,1324,drowning,drowning,water; water droplets; water pistol; weak; bow; ice; bow2; ice2,デキ; ジョウ; ニョウ,いばり; おぼ.れる
-沸,1237,1325,seethe,seethe,water; water droplets; water pistol; dollar; bow; stick; stick2,フツ,わ.く; わ.かす
-費,1238,1326,expense,expense,dollar; bow; stick; shellfish; clam; oyster; eye; animal legs; eight; stick2,ヒ,つい.やす; つい.える
+弱,1236,1323,weak,weak,bow; ice,ジャク,よわ.い; よわ.る; よわ.まる; よわ.める
+溺,2308,1324,drowning,drowning,water; water droplets; water pistol; weak; bow; ice,デキ; ジョウ; ニョウ,いばり; おぼ.れる
+沸,1237,1325,seethe,seethe,water; water droplets; water pistol; dollar; bow; stick,フツ,わ.く; わ.かす
+費,1238,1326,expense,expense,dollar; bow; stick; shellfish; clam; oyster; eye; animal legs; eight,ヒ,つい.やす; つい.える
 第,1239,1327,No.,No.,no.; bamboo; dollar; bow; stick,ダイ; テイ,
 弟,1240,1328,younger brother,younger brother,horns; dollar; bow; stick,テイ; ダイ; デ,おとうと
 巧,1241,1329,adroit,adroit,craft; snare,コウ,たく.み; たく.む; うま.い
 号,1242,1330,nickname,nickname,mouth; snare,ゴウ,さけ.ぶ; よびな
 朽,1243,1331,decay,decay,tree; wood; snare,キュウ,く.ちる
 誇,1244,1332,boast,boast,say; words; keitai; mouth; Batman; large; St. Bernard; chandelier; one; ceiling; snare,コ,ほこ.る
-顎,2795,1333,chin,chin,mousetrap; mouth; one; ceiling; snare; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight; mouth2; one2,ガク,あご; あぎと
+顎,2795,1333,chin,chin,mousetrap; mouth; one; ceiling; snare; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ガク,あご; あぎと
 汚,1245,1334,dirty,dirty,water; water droplets; water pistol; snare; one; spike; stick,オ,けが.す; けが.れる; けが.らわしい; よご.す; よご.れる; きたな.い
 与,1246,1335,bestow,bestow,slingshot; catapult; one,ヨ,あた.える; あずか.る; くみ.する; ともに
 写,1247,1336,copy,copy,crown; bestow; slingshot; catapult; one,シャ; ジャ,うつ.す; うつ.る; うつ-; うつ.し
@@ -1348,7 +1348,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 著,1258,1347,renowned,renowned,flowers; someone; puppet; sooty; old man; sun; day,チョ; チャク,あらわ.す; いちじる.しい
 箸,2640,1348,chopsticks,chopsticks,bamboo; someone; puppet; sooty; old man; sun; day,チョ; チャク,はし
 署,1259,1349,signature,signature,eye; cross-eyed; net; someone; puppet; sooty; old man; sun; day,ショ,
-暑,1260,1350,sultry,sultry,sun; day; someone; puppet; sooty; old man; sun2; day2,ショ,あつ.い
+暑,1260,1350,sultry,sultry,sun; day; someone; puppet; sooty; old man,ショ,あつ.い
 諸,1261,1351,various,various,say; words; keitai; mouth; someone; puppet; sooty; old man; sun; day,ショ,もろ
 猪,1262,1352,boar,boar,pack of wild dogs; someone; puppet; sooty; old man; sun; day,チョ,い; いのしし
 渚,1263,1353,strand,strand,water; water droplets; water pistol; someone; puppet; sooty; old man; sun; day,ショ,なぎさ
@@ -1374,8 +1374,8 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 促,1280,1373,stimulate,stimulate,person; leg; mouth; mending; mend,ソク,うなが.す
 捉,2260,1374,nab,nab,finger; fingers; leg; mouth; mend,ソク; サク,とら.える
 距,1281,1375,long-distance,long-distance,wooden leg; mouth; stop; footprint; giant,キョ,へだ.たる; けづめ
-路,1282,1376,path,path,wooden leg; mouth; stop; footprint; each; walking legs; mouth; mouth2,ロ; ル,-じ; みち
-露,1283,1377,dew,dew,rain; weather; path; wooden leg; mouth; stop; footprint; each; walking legs; mouth; mouth2,ロ; ロウ,つゆ
+路,1282,1376,path,path,wooden leg; mouth; stop; footprint; each; walking legs; mouth,ロ; ル,-じ; みち
+露,1283,1377,dew,dew,rain; weather; path; wooden leg; mouth; stop; footprint; each; walking legs; mouth,ロ; ロウ,つゆ
 跳,1284,1378,hop,hop,wooden leg; mouth; stop; footprint; portent; omen,チョウ,は.ねる; と.ぶ; -と.び
 躍,1285,1379,leap,leap,wooden leg; mouth; stop; footprint; futon; feathers; wings; turkey,ヤク,おど.る
 践,1286,1380,tread,tread,wooden leg; mouth; stop; footprint; parade float,セン,ふ.む
@@ -1383,7 +1383,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 踪,3019,1382,trail,trail,,ショウ; ソウ,あと
 骨,1288,1383,skeleton,skeleton,joint; moon; month; flesh; part of the body,コツ,ほね
 滑,1289,1384,slippery,slippery,water; water droplets; water pistol; skeleton; joint; moon; month; flesh; part of the body,カツ; コツ,すべ.る; なめ.らか
-髄,1290,1385,marrow,marrow,skeleton; joint; moon; month; flesh; part of the body; highwayman; possess; by one’s side; road; moon2; month2; flesh2; part of the body2,ズイ,
+髄,1290,1385,marrow,marrow,skeleton; joint; moon; month; flesh; part of the body; highwayman; possess; by one’s side; road,ズイ,
 禍,1291,1386,calamity,calamity,altar; jawbone; joint; hood; mouth,カ,わざわい
 渦,1292,1387,whirlpool,whirlpool,water; water droplets; water pistol; jawbone; joint; hood; mouth,カ,うず
 鍋,2757,1388,pot,pot,metal; gold; jawbone; joint; hood; mouth,カ,なべ
@@ -1392,7 +1392,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 阿,1295,1391,Africa,Africa,africa; pinnacle; parthenon; acropolis; can; mouth; street; nail; spike,ア; オ,おもね.る
 際,1296,1392,occasion,occasion,pinnacle; parthenon; acropolis; ritual; moon; month; flesh; part of the body; crotch; altar; show; two; small,サイ,きわ; -ぎわ
 障,1297,1393,hinder,hinder,pinnacle; parthenon; acropolis; badge; vase; stand up; sunflower; early; sun; day; ten; needle,ショウ,さわ.る
-隙,2426,1394,chink,chink,pinnacle; parthenon; acropolis; small; little; sun; day; small2; little; 2,ゲキ; キャク; ケキ,すき; す.く; す.かす; ひま
+隙,2426,1394,chink,chink,pinnacle; parthenon; acropolis; small; little; sun; day; little,ゲキ; キャク; ケキ,すき; す.く; す.かす; ひま
 随,1298,1395,follow,follow,pinnacle; parthenon; acropolis; highwayman; possess; by one’s side; moon; month; flesh; part of the body; road,ズイ,まにまに; したが.う
 陪,1299,1396,auxiliary,auxiliary,obeisance; pinnacle; parthenon; acropolis; muzzle; vase; stand up; mouth,バイ,
 陽,1300,1397,sunshine,sunshine,pinnacle; parthenon; acropolis; piggy bank; sun; day; piglets,ヨウ,ひ
@@ -1404,8 +1404,8 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 隊,1306,1403,regiment,regiment,pinnacle; parthenon; acropolis; animal horns; sow; pig; wart hog; regimental mascot,タイ,
 墜,1307,1404,crash,crash,regiment; pinnacle; parthenon; acropolis; animal horns; sow; pig; wart hog; regimental mascot; soil; dirt; ground,ツイ,お.ちる; お.つ
 降,1308,1405,descend,descend,pinnacle; parthenon; acropolis; walking legs; sunglasses with one lens missing; monocle,コウ; ゴ,お.りる; お.ろす; ふ.る; ふ.り; くだ.る; くだ.す
-階,1309,1406,story,story,storey; pinnacle; parthenon; acropolis; all; compare; spoon; sitting on the ground; white; dove; spoon2; sitting on the ground2,カイ,きざはし
-陛,1310,1407,highness,highness,pinnacle; parthenon; acropolis; compare; spoon; sitting on the ground; soil; dirt; ground; spoon2; sitting on the ground2,ヘイ,
+階,1309,1406,story,story,storey; pinnacle; parthenon; acropolis; all; compare; spoon; sitting on the ground; white; dove,カイ,きざはし
+陛,1310,1407,highness,highness,pinnacle; parthenon; acropolis; compare; spoon; sitting on the ground; soil; dirt; ground,ヘイ,
 隣,1311,1408,neighboring,neighboring,neighbouring; pinnacle; parthenon; acropolis; shoeshine; rice; sunglasses; dancing legs; ballerina; evening,リン,とな.る; となり
 隔,1312,1409,isolate,isolate,pinnacle; parthenon; acropolis; tripod; one; ceiling; mouth; hood; human legs; street; nail; spike,カク,へだ.てる; へだ.たる
 隠,1313,1410,conceal,conceal,pinnacle; parthenon; acropolis; hideaway; claw; vulture; broom; heart,イン; オン,かく.す; かく.し; かく.れる; かか.す; よ.る
@@ -1419,7 +1419,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 窒,1321,1418,plug up,plug up,hole; house; human legs; climax; wall; one; ceiling; elbow; soil; dirt; ground,チツ,
 窃,1322,1419,stealth,stealth,hole; house; human legs; cut; seven; sword; dagger,セツ,ぬす.む; ひそ.か
 窟,2615,1420,cavern,cavern,hole; house; human legs; yield; flag; exit,クツ; コツ,いわや; いはや; あな
-窪,1323,1421,depression,depression,hole; house; human legs; water; water droplets; water pistol; ivy; square jewel; soil; dirt; ground; soil2; dirt2; ground2,ワ; ア,くぼ.む; くぼ.み; くぼ.まる; くぼ
+窪,1323,1421,depression,depression,hole; house; human legs; water; water droplets; water pistol; ivy; square jewel; soil; dirt; ground,ワ; ア,くぼ.む; くぼ.み; くぼ.まる; くぼ
 搾,1324,1422,squeeze,squeeze,finger; fingers; tight; hole; house; human legs; saw,サク,しぼ.る
 窯,1325,1423,kiln,kiln,hole; house; human legs; sheep; oven-fire; barbecue,ヨウ,かま
 窮,1326,1424,hard up,hard up,hole; house; human legs; somebody; nose; bow,キュウ; キョウ,きわ.める; きわ.まる; きわ.まり; きわ.み
@@ -1450,7 +1450,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 給,1349,1449,salary,salary,thread; spiderman; fit; meeting; umbrella; one; mouth,キュウ,たま.う; たも.う; -たま.え
 絡,1350,1450,entwine,entwine,thread; spiderman; each; walking legs; mouth,ラク,から.む; から.まる
 結,1351,1451,tie,tie,thread; spiderman; aerosol; samurai; mouth,ケツ; ケチ,むす.ぶ; ゆ.う; ゆ.わえる
-終,1352,1452,end,end,thread; spiderman; winter; walking legs; ice; drop; drop2,シュウ,お.わる; -お.わる; おわ.る; お.える; つい; つい.に
+終,1352,1452,end,end,thread; spiderman; winter; walking legs; ice; drop,シュウ,お.わる; -お.わる; おわ.る; お.える; つい; つい.に
 級,1353,1453,class,class,thread; spiderman; reach out; outstretched hands,キュウ,
 紀,1354,1454,chronicle,chronicle,thread; spiderman; snake; self,キ,
 紅,1355,1455,crimson,crimson,thread; spiderman; craft,コウ; ク,べに; くれない; あか.い
@@ -1467,7 +1467,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 総,1366,1466,general,general,thread; spiderman; public; eight; elbows; heart,ソウ,す.べて; すべ.て; ふさ
 綿,1367,1467,cotton,cotton,thread; spiderman; napkin; white; dove; towel,メン,わた
 絹,1368,1468,silk,silk,thread; spiderman; mouth; moon; month; flesh; part of the body,ケン,きぬ
-繰,1369,1469,winding,winding,thread; spiderman; furniture; goods; mouth; tree; wood; mouth3,ソウ,く.る
+繰,1369,1469,winding,winding,thread; spiderman; furniture; goods; mouth; tree; wood,ソウ,く.る
 継,1370,1470,inherit,inherit,thread; spiderman; rice; fishhook,ケイ,つ.ぐ; まま-
 緑,1371,1471,green,green,thread; spiderman; dustpan; broom; grains of rice,リョク; ロク,みどり
 縁,1372,1472,affinity,affinity,thread; spiderman; broom; sow; pig,エン; ネン,ふち; ふちど.る; ゆかり; よすが; へり; えにし
@@ -1478,18 +1478,18 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 縄,1377,1477,straw rope,straw rope,thread; spiderman; eels; sun; day,ジョウ,なわ; ただ.す
 幼,1378,1478,infancy,infancy,cocoon; power; muscle; arnold,ヨウ,おさな.い
 後,1379,1479,behind,behind,Nelson; column; going; line; cocoon; walking legs,ゴ; コウ,のち; うし.ろ; うしろ; あと; おく.れる
-幽,1380,1480,faint,faint,seclude; cocoon; mountain; cocoon2,ユウ; ヨウ,ふか.い; かす.か; くら.い; しろ.い
-幾,1381,1481,how many,how many,cocoon; person; fiesta; cocoon2,キ,いく-; いく.つ; いく.ら
-機,1382,1482,mechanism,mechanism,tree; wood; abacus; how many; cocoon; person; fiesta; cocoon2,キ,はた
-畿,2887,1483,capital suburbs,capital suburbs,cocoon; rice field; brains; fiesta; cocoon2,キ,みやこ
+幽,1380,1480,faint,faint,seclude; cocoon; mountain,ユウ; ヨウ,ふか.い; かす.か; くら.い; しろ.い
+幾,1381,1481,how many,how many,cocoon; person; fiesta,キ,いく-; いく.つ; いく.ら
+機,1382,1482,mechanism,mechanism,tree; wood; abacus; how many; cocoon; person; fiesta,キ,はた
+畿,2887,1483,capital suburbs,capital suburbs,cocoon; rice field; brains; fiesta,キ,みやこ
 玄,1383,1484,mysterious,mysterious,top hat; cocoon,ゲン,
 畜,1384,1485,livestock,livestock,mysterious; top hat; cocoon; rice field; brains,チク,
 蓄,1385,1486,amass,amass,flowers; livestock; mysterious; top hat; cocoon; rice field; brains,チク,たくわ.える
 弦,1386,1487,bowstring,bowstring,bow; mysterious; top hat; cocoon,ゲン,つる
 擁,1387,1488,hug,hug,finger; fingers; mysterious; top hat; cocoon; turkey,ヨウ,
-滋,1388,1489,nourishing,nourishing,water; water droplets; water pistol; double-mysterious; mothballs; horns; one; cocoon; cocoon2,ジ,
-慈,1389,1490,mercy,mercy,double-mysterious; mothballs; horns; one; cocoon; heart; cocoon2,ジ,いつく.しむ
-磁,1390,1491,magnet,magnet,stone; rock; double-mysterious; mothballs; horns; one; cocoon; cocoon2,ジ,
+滋,1388,1489,nourishing,nourishing,water; water droplets; water pistol; double-mysterious; mothballs; horns; one; cocoon,ジ,
+慈,1389,1490,mercy,mercy,double-mysterious; mothballs; horns; one; cocoon; heart,ジ,いつく.しむ
+磁,1390,1491,magnet,magnet,stone; rock; double-mysterious; mothballs; horns; one; cocoon,ジ,
 系,1391,1492,lineage,lineage,stick; drop; thread; spiderman,ケイ,
 係,1392,1493,person in charge,person in charge,person; lineage; drop; thread; spiderman,ケイ,かか.る; かかり; -がかり; かか.わる
 孫,1393,1494,grandchild,grandchild,child; lineage; drop; thread; spiderman,ソン,まご
@@ -1538,7 +1538,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 酎,2748,1537,hooch,hooch,whiskey bottle; glue,チュウ; チュ,かも.す
 酵,1430,1538,fermentation,fermentation,whiskey bottle; filial piety; old man; child,コウ,
 酷,1431,1539,cruel,cruel,whiskey bottle; revelation; cow; mouth,コク,ひど.い
-酬,1432,1540,repay,repay,whiskey bottle; state; stream; drop; drop3,シュウ; シュ; トウ,むく.いる
+酬,1432,1540,repay,repay,whiskey bottle; state; stream; drop,シュウ; シュ; トウ,むく.いる
 酪,1433,1541,dairy products,dairy products,whiskey bottle; each; walking legs; mouth,ラク,
 酢,1434,1542,vinegar,vinegar,whiskey bottle; saw,サク,す
 酔,1435,1543,drunk,drunk,whiskey bottle; ninety; nine; baseball; ten; needle,スイ,よ.う; よ.い; よ
@@ -1551,7 +1551,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 短,1442,1550,short,short,dart; drop; heavens; beans; table; one; mouth,タン,みじか.い
 豊,1443,1551,bountiful,bountiful,bend; beans; table; one; mouth,ホウ; ブ,ゆた.か; とよ
 鼓,1444,1552,drum,drum,samurai; beans; table; one; mouth; branch; ten; needle; crotch,コ,つづみ
-喜,1445,1553,rejoice,rejoice,drum; samurai; beans; table; one; mouth; mouth; mouth2,キ,よろこ.ぶ; よろこ.ばす
+喜,1445,1553,rejoice,rejoice,drum; samurai; beans; table; one; mouth; mouth,キ,よろこ.ぶ; よろこ.ばす
 樹,1446,1554,timber-trees,timber-trees,tree; wood; drum; samurai; beans; table; one; mouth; glue,ジュ,き
 皿,1447,1555,dish,dish,,ベイ,さら
 血,1448,1556,blood,blood,drop; dish,ケツ,ち
@@ -1606,7 +1606,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 離,1492,1605,detach,detach,sheik; top hat; villain; sheaf; shovel; belt; elbow; turkey,リ,はな.れる; はな.す
 璃,2048,1606,crystal,crystal,king; jewel; ball; sheik; top hat; villain; sheaf; shovel; belt; elbow,リ,
 殺,1493,1607,kill,kill,sheaf; tree; wood; cruise missile; missile; wind; crotch,サツ; サイ; セツ,ころ.す; -ごろ.し; そ.ぐ
-爽,2855,1608,bracing,bracing,large; St. Bernard; sheaf; sheaf4,ソウ,あき.らか; さわ.やか; たがう
+爽,2855,1608,bracing,bracing,large; St. Bernard; sheaf,ソウ,あき.らか; さわ.やか; たがう
 純,1494,1609,genuine,genuine,thread; spiderman; earthworm; drop; shovel; fishhook,ジュン,
 頓,2788,1610,immediate,immediate,earthworm; drop; shovel; fishhook; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,トン; トツ,にわか.に; とん.と; つまず.く; とみ.に; ぬかずく
 鈍,1495,1611,dull,dull,metal; gold; earthworm; drop; shovel; fishhook,ドン,にぶ.い; にぶ.る; にぶ-; なま.る; なまく.ら
@@ -1620,19 +1620,19 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 新,1502,1619,new,new,red pepper; stand up; vase; tree; wood; axe,シン,あたら.しい; あら.た; あら-; にい-
 薪,1503,1620,firewood,firewood,fuel; flowers; new; red pepper; stand up; vase; tree; wood; axe,シン,たきぎ; まき
 親,1504,1621,parent,parent,red pepper; stand up; vase; tree; wood; see; telescope; eye; human legs,シン,おや; おや-; した.しい; した.しむ
-幸,1505,1622,happiness,happiness,ten; needle; stand up; vase; ten; needle; ten2; needle2,コウ,さいわ.い; さち; しあわ.せ
-執,1506,1623,tenacious,tenacious,happiness; ten; needle; stand up; vase; fat man; musashimaru; nine; baseball; drop; ten2; needle2,シツ; シュウ,と.る
+幸,1505,1622,happiness,happiness,ten; needle; stand up; vase; ten; needle,コウ,さいわ.い; さち; しあわ.せ
+執,1506,1623,tenacious,tenacious,happiness; ten; needle; stand up; vase; fat man; musashimaru; nine; baseball; drop,シツ; シュウ,と.る
 摯,3022,1624,clasp,clasp,,シ,いた.る
-報,1507,1625,report,report,happiness; ten; needle; stand up; vase; underpants; stamp; crotch; ten2; needle2,ホウ,むく.いる
+報,1507,1625,report,report,happiness; ten; needle; stand up; vase; underpants; stamp; crotch,ホウ,むく.いる
 叫,1508,1626,shout,shout,mouth; cornucopia,キョウ,さけ.ぶ
 糾,1509,1627,twist,twist,thread; spiderman; cornucopia,キュウ,ただ.す
 収,1510,1628,income,income,cornucopia; crotch,シュウ,おさ.める; おさ.まる
 卑,1511,1629,lowly,lowly,Wayne Slob; drop; rice field; brains; cornucopia; ten; needle,ヒ,いや.しい; いや.しむ; いや.しめる
 碑,1512,1630,tombstone,tombstone,stone; rock; lowly; Wayne Slob; drop; rice field; brains; cornucopia; ten; needle,ヒ,いしぶみ
-陸,1513,1631,land,land,pinnacle; parthenon; acropolis; mini-tractor; rice seedlings; soil; dirt; ground; human legs; soil2; dirt2; ground2,リク; ロク,おか
-睦,1514,1632,intimate,intimate,eye; mini-tractor; rice seedlings; soil; dirt; ground; human legs; soil2; dirt2; ground2,ボク; モク,むつ.まじい; むつ.む; むつ.ぶ
-勢,1515,1633,forces,forces,mini-tractor; rice seedlings; soil; dirt; ground; human legs; fat man; musashimaru; round; nine; baseball; drop; power; muscle; arnold; soil2; dirt2; ground2,セイ; ゼイ,いきお.い; はずみ
-熱,1516,1634,heat,heat,mini-tractor; rice seedlings; soil; dirt; ground; human legs; fat man; musashimaru; round; nine; baseball; drop; oven-fire; barbecue; soil2; dirt2; ground2,ネツ,あつ.い
+陸,1513,1631,land,land,pinnacle; parthenon; acropolis; mini-tractor; rice seedlings; soil; dirt; ground; human legs,リク; ロク,おか
+睦,1514,1632,intimate,intimate,eye; mini-tractor; rice seedlings; soil; dirt; ground; human legs,ボク; モク,むつ.まじい; むつ.む; むつ.ぶ
+勢,1515,1633,forces,forces,mini-tractor; rice seedlings; soil; dirt; ground; human legs; fat man; musashimaru; round; nine; baseball; drop; power; muscle; arnold,セイ; ゼイ,いきお.い; はずみ
+熱,1516,1634,heat,heat,mini-tractor; rice seedlings; soil; dirt; ground; human legs; fat man; musashimaru; round; nine; baseball; drop; oven-fire; barbecue,ネツ,あつ.い
 菱,1517,1635,diamond,diamond,flowers; Mao; soil; dirt; ground; human legs; walking legs,リョウ,ひし
 陵,1518,1636,mausoleum,mausoleum,pinnacle; parthenon; acropolis; Mao; soil; dirt; ground; human legs; walking legs,リョウ,みささぎ
 亥,1519,1637,sign of the hog,sign of the hog,acorn; top hat,ガイ; カイ,い
@@ -1709,19 +1709,19 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 錘,1584,1708,spindle,spindle,metal; gold; droop; drop; silage; walking cane; stick; one; floor,スイ,つむ; おもり
 乗,1585,1709,ride,ride,wheat; cereal; silage,ジョウ; ショウ,の.る; -の.り; の.せる
 剰,1586,1710,surplus,surplus,ride; wheat; cereal; silage; sword; sabre; saber,ジョウ,あまつさえ; あま.り; あま.る
-今,1587,1711,now,now,meeting; umbrella; one; 7,コン; キン,いま
+今,1587,1711,now,now,meeting; umbrella; one,コン; キン,いま
 含,1588,1712,include,include,now; clock; mouth,ガン,ふく.む; ふく.める
 貪,3023,1713,covet,covet,,タン; トン,むさぼ.る
 吟,1589,1714,versify,versify,mouth; now; clock,ギン,
 念,1590,1715,wish,wish,now; clock; heart,ネン,
 捻,2251,1716,wrenching,wrench,finger; fingers; wish; wishbone; now; clock; heart,ネン; ジョウ,ね.じる; ねじ.る; ひね.くる; ひね.る
-琴,1591,1717,harp,harp,king; jewel; ball; now; clock; king2; jewel2; ball2,キン,こと
+琴,1591,1717,harp,harp,king; jewel; ball; now; clock,キン,こと
 陰,1592,1718,shade,shade,pinnacle; parthenon; acropolis; now; clock; rising cloud; two; elbow; wall,イン,かげ; かげ.る
 予,1593,1719,beforehand,beforehand,halberd with stroke missing,ヨ; シャ,あらかじ.め
 序,1594,1720,preface,preface,cave; beforehand,ジョ,つい.で; ついで
 預,1595,1721,deposit,deposit,beforehand; head; page; one; ceiling; drop; shellfish; clam; oyster; eye; animal legs; eight,ヨ,あず.ける; あず.かる
 野,1596,1722,plains,plains,computer; beforehand,ヤ; ショ,の; の-
-兼,1597,1723,concurrently,concurrently,animal horns; rake; stick; stick2,ケン,か.ねる; -か.ねる
+兼,1597,1723,concurrently,concurrently,animal horns; rake; stick,ケン,か.ねる; -か.ねる
 嫌,1598,1724,dislike,dislike,woman; concurrently; animal horns; rake,ケン; ゲン,きら.う; きら.い; いや
 鎌,1599,1725,sickle,sickle,metal; gold; concurrently; animal horns; rake,レン; ケン,かま
 謙,1600,1726,self-effacing,self-effacing,say; words; keitai; mouth; concurrently; animal horns; rake,ケン,
@@ -1738,9 +1738,9 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 遷,1610,1737,transition,transition,old west; large; St. Bernard; snake; self; road,セン,うつ.る; うつ.す; みやこがえ
 覆,1611,1738,capsize,capsize,old west; restore; Nelson; column; going; line; fold back; double back; reclining; lying down; sun; day; walking legs,フク,おお.う; くつがえ.す; くつがえ.る
 煙,1612,1739,smoke,smoke,hearth fire; old west; soil; dirt; ground,エン,けむ.る; けむり; けむ.い
-南,1613,1740,south,south,ten; needle; belt; happiness; ten; needle; stand up; vase; ten2; needle2,ナン; ナ,みなみ
-楠,1614,1741,camphor tree,camphor tree,tree; wood; south; ten; needle; belt; happiness; ten; needle; stand up; vase; ten2; needle2,ナン; ダン; ゼン; ネン,くす; くすのき
-献,1615,1742,offering,offering,south; ten; needle; belt; happiness; ten; needle; stand up; vase; chihuahua; dog; large; drop; ten2; needle2,ケン; コン,たてまつ.る
+南,1613,1740,south,south,ten; needle; belt; happiness; ten; needle; stand up; vase,ナン; ナ,みなみ
+楠,1614,1741,camphor tree,camphor tree,tree; wood; south; ten; needle; belt; happiness; ten; needle; stand up; vase,ナン; ダン; ゼン; ネン,くす; くすのき
+献,1615,1742,offering,offering,south; ten; needle; belt; happiness; ten; needle; stand up; vase; chihuahua; dog; large; drop,ケン; コン,たてまつ.る
 門,1616,1743,gates,gates,,モン,かど; と
 問,1617,1744,question,question,gates; mouth,モン,と.う; と.い; とん
 閲,1618,1745,review,review,gates; devil; horns; elder brother; teenager; mouth; human legs,エツ,けみ.する
@@ -1754,7 +1754,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 閑,1625,1753,leisure,leisure,gates; tree; wood,カン,
 聞,1626,1754,hear,hear,gates; ear,ブン; モン,き.く; き.こえる
 潤,1627,1755,wet,wet,water; water droplets; water pistol; intercalate; gates; king; jewel; ball,ジュン,うるお.う; うるお.す; うる.む
-欄,1628,1756,column,column,tree; wood; gates; east; tree; wood; sun; day; tree2; wood2,ラン,てすり
+欄,1628,1756,column,column,tree; wood; gates; east; tree; wood; sun; day,ラン,てすり
 闘,1629,1757,fight,fight,gates; beans; table; one; mouth; glue,トウ,たたか.う; あらそ.う
 倉,1630,1758,godown,godown,meeting; single gate; umbrella; stable door; mouth,ソウ,くら
 創,1631,1759,genesis,genesis,godown; meeting; single gate; umbrella; stable door; mouth; sword; sabre; saber,ソウ; ショウ,つく.る; はじ.める; きず; けず.しける
@@ -1774,14 +1774,14 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 違,1644,1773,difference,difference,locket; stick; key; mouth; monocle; sunglasses with one lens missing; road,イ,ちが.う; ちが.い; ちが.える; -ちが.える; たが.う; たが.える
 緯,1645,1774,horizontal,horizontal,thread; spiderman; locket; stick; key; mouth; monocle; sunglasses with one lens missing,イ,よこいと; ぬき
 衛,1646,1775,defense,defense,defence; boulevard; going; locket; stick; key; mouth; monocle; sunglasses with one lens missing,エイ; エ,
-韓,1647,1776,Korea,Korea,korea; mist; ten; needle; early; sun; day; locket; stick; key; mouth; monocle; sunglasses with one lens missing; ten2; needle2,カン,から; いげた
+韓,1647,1776,Korea,Korea,korea; mist; ten; needle; early; sun; day; locket; stick; key; mouth; monocle; sunglasses with one lens missing,カン,から; いげた
 干,1648,1777,dry,dry,clothesline,カン,ほ.す; ほ.し-; -ぼ.し; ひ.る
 肝,1649,1778,liver,liver,moon; month; flesh; part of the body; dry; clothesline,カン,きも
 刊,1650,1779,publish,publish,dry; clothesline; sword; sabre; saber,カン,
 汗,1651,1780,sweat,sweat,water; water droplets; water pistol; dry; clothesline,カン,あせ
 軒,1652,1781,flats,flats,car; dry; clothesline,ケン,のき
 岸,1653,1782,beach,beach,mountain; cliff; dry; clothesline,ガン,きし
-幹,1654,1783,tree trunk,tree trunk,mist; ten; needle; early; sun; day; umbrella; dry; clothesline; ten2; needle2,カン,みき
+幹,1654,1783,tree trunk,tree trunk,mist; ten; needle; early; sun; day; umbrella; dry; clothesline,カン,みき
 芋,1655,1784,potato,potato,flowers,ウ,いも
 宇,1656,1785,eaves,eaves,house; potato,ウ,
 余,1657,1786,too much,too much,umbrella; potato; small,ヨ,あま.る; あま.り; あま.す; あんま.り
@@ -1802,7 +1802,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 剣,1671,1801,saber,saber,sabre; awl; fit; meeting; umbrella; mouth; person; sword; sabre,ケン,つるぎ
 険,1672,1802,precipitous,precipitous,pinnacle; parthenon; acropolis; awl; fit; meeting; umbrella; mouth; person,ケン,けわ.しい
 検,1673,1803,examination,examination,tree; wood; awl; fit; meeting; umbrella; mouth; person,ケン,しら.べる
-倹,1674,1804,frugal,frugal,person; awl; fit; meeting; umbrella; mouth; person; person2,ケン,つま.しい; つづまやか
+倹,1674,1804,frugal,frugal,person; awl; fit; meeting; umbrella; mouth; person,ケン,つま.しい; つづまやか
 重,1675,1805,heavy,heavy,thousand; computer; rice field; brains; soil; dirt; ground,ジュウ; チョウ,え; おも.い; おも.り; おも.なう; かさ.ねる; かさ.なる; おも
 動,1676,1806,move,move,heavy; thousand; ri; computer; power; muscle; arnold,ドウ,うご.く; うご.かす
 腫,2467,1807,tumor,tumor,tumour; moon; month; flesh; part of the body; heavy; thousand; ri; computer,シュ; ショウ,は.れる; は.れ; は.らす; く.む; はれもの
@@ -1863,7 +1863,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 対,1726,1862,vis-a-vis,vis-a-vis,sentence; plaid; kilt; Billy Connolly; glue,タイ; ツイ,あいて; こた.える; そろ.い; つれあ.い; なら.ぶ; むか.う
 紋,1727,1863,family crest,family crest,thread; spiderman; sentence; plaid; kilt; Billy Connolly,モン,
 蚊,1728,1864,mosquito,mosquito,insect; sentence; sentence; plaid; kilt; Billy Connolly,ブン,か
-斑,2556,1865,speckled,speckled,king; jewel; ball; sentence; plaid; kilt; Billy Connolly; king2; jewel2; ball2,ハン,ふ; まだら
+斑,2556,1865,speckled,speckled,king; jewel; ball; sentence; plaid; kilt; Billy Connolly,ハン,ふ; まだら
 斉,1729,1866,adjusted,adjusted,sentence; plaid; kilt; Billy Connolly; two; fenceposts; cabers,セイ; サイ,そろ.う; ひと.しい; ひと.しく; あたる; はやい
 剤,1730,1867,dose,dose,adjust; adjusted; sentence; plaid; kilt; Billy Connolly; two; fenceposts; cabers; sword; sabre; saber,ザイ; スイ; セイ,かる; けず.る
 済,1731,1868,finish,finish,water; water droplets; water pistol; adjust; adjusted; sentence; plaid; kilt; Billy Connolly; two; fenceposts; cabers,サイ; セイ,す.む; -ず.み; -ずみ; す.まない; す.ます; -す.ます; すく.う; な.す; わたし; わた.る
@@ -1942,7 +1942,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 暴,1801,1941,outburst,outburst,sun; day; strung together; salad; animal legs; eight; grains of rice,ボウ; バク,あば.く; あば.れる
 爆,1802,1942,bomb,bomb,fire; outburst; strung together; salad; animal legs; eight; grains of rice,バク,は.ぜる
 恭,1803,1943,respect,respect,strung together; salad; animal legs; eight; valentine,キョウ,うやうや.しい
-選,1804,1944,elect,elect,southeast; snake; self; strung together; salad; animal legs; eight; road; snake2; self2,セン,えら.ぶ
+選,1804,1944,elect,elect,southeast; snake; self; strung together; salad; animal legs; eight; road,セン,えら.ぶ
 殿,1805,1945,Mr.,Mr.,Mr; flag; strung together; salad; animal legs; eight; cruise missile; missile; wind; crotch,デン; テン,との; -どの
 井,1806,1946,well,well,,セイ; ショウ,い
 丼,2884,1947,domburi,donburi,well; drop,トン; タン; ショウ; セイ,どんぶり
@@ -1968,7 +1968,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 冊,1826,1967,tome,tome,,サツ; サク,ふみ
 柵,2507,1968,palisade,palisade,tree; wood; tome,サク; サン,しがら.む; しがらみ; とりで; やらい
 典,1827,1969,code,code,bend; tool,テン; デン,
-氏,1828,1970,family name,family name,drop; fishhook; fishhook2,シ,うじ; -うじ
+氏,1828,1970,family name,family name,drop; fishhook,シ,うじ; -うじ
 紙,1829,1971,paper,paper,thread; spiderman; family name,シ,かみ
 婚,1830,1972,marriage,marriage,woman; dusk; family name; day,コン,
 低,1831,1973,lower,lower,person; calling card; family name; one; floor,テイ,ひく.い; ひく.める; ひく.まる
@@ -1999,7 +1999,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 循,1854,1998,sequential,sequential,Nelson; column; going; line; shield; drag; ten; needle; eye,ジュン,
 派,1855,1999,faction,faction,water; water droplets; water pistol; caveman; drag; person; rag,ハ,
 脈,1856,2000,vein,vein,moon; month; flesh; part of the body; caveman; drag; person; rag,ミャク,すじ
-衆,1857,2001,masses,masses,blood; drop; dish; Carol in rags person; rag; drop3,シュウ; シュ,おお.い
+衆,1857,2001,masses,masses,blood; drop; dish; Carol in rags person; rag,シュウ; シュ,おお.い
 逓,1858,2002,parcel post,parcel post,drag; cornstalk; belt; road,テイ,かわ.る; たがいに
 段,1859,2003,grade,grade,staple gun; cruise missile; missile; wind; crotch,ダン; タン,
 鍛,1860,2004,forge,forge,metal; gold; grade; staple gun; cruise missile; missile; wind; crotch,タン,きた.える
@@ -2007,7 +2007,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 幻,1862,2006,phantasm,phantasm,cocoon; clothes hanger; coat hanger,ゲン,まぼろし
 司,1863,2007,director,director,clothes hanger; coat hanger; one; mouth,シ,つかさど.る
 伺,1864,2008,pay respects,pay respects,person; director; Ken Russel; clothes hanger; coat hanger; one; mouth,シ,うかが.う
-詞,1865,2009,parts of speech,parts of speech,part of speech; say; words; keitai; mouth; director; Ken Russel; clothes hanger; coat hanger; one; mouth; mouth2,シ,
+詞,1865,2009,parts of speech,parts of speech,part of speech; say; words; keitai; mouth; director; Ken Russel; clothes hanger; coat hanger; one; mouth,シ,
 飼,1866,2010,domesticate,domesticate,eat; food; umbrella; good; halo; drop; silver; director; Ken Russel; clothes hanger; coat hanger; one; mouth,シ,か.う
 嗣,1867,2011,heir,heir,mouth; scrapbook; glass canopy; hood; flowers; director; Ken Russel; clothes hanger; coat hanger; one; mouth,シ,
 舟,1868,2012,boat,boat,,シュウ,ふね; ふな-; -ぶね
@@ -2025,12 +2025,12 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 孤,1879,2024,orphan,orphan,child; melon; claw; vulture; elbow,コ,
 繭,1880,2025,cocoon,cocoon,flowers; hood; stick; thread; spiderman; insect,ケン,まゆ; きぬ
 益,1881,2026,benefit,benefit,animal horns; one; floor; animal legs; eight; dish,エキ; ヤク,ま.す
-暇,1882,2027,spare time,spare time,sun; day; hobby; staples; mouth; box; crotch; box2,カ,ひま; いとま
+暇,1882,2027,spare time,spare time,sun; day; hobby; staples; mouth; box; crotch,カ,ひま; いとま
 敷,1883,2028,spread,spread,arrowhead; rice field; brains; compass; direction; taskmaster,フ,し.く; -し.き
 来,1884,2029,come,come,not yet; animal horns,ライ; タイ,く.る; きた.る; きた.す; き.たす; き.たる; き; こ
 気,1885,2030,spirit,spirit,landed fish; reclining; lying down; one; floor; fishhook; sheaf,キ; ケ,いき
 汽,1886,2031,vapor,vapor,water; water droplets; water pistol; landed fish; reclining; lying down; one; floor; fishhook,キ,
-飛,1887,2032,fly,fly,hook; propeller; measuring box; thousand; needles; propeller2,ヒ,と.ぶ; と.ばす; -と.ばす
+飛,1887,2032,fly,fly,hook; propeller; measuring box; thousand; needles,ヒ,と.ぶ; と.ばす; -と.ばす
 沈,1888,2033,sink,sink,water; water droplets; water pistol; garter; crown; human legs,チン; ジン,しず.む; しず.める
 枕,2472,2034,pillow,pillow,tree; wood; garter; crown; human legs,チン; シン,まくら
 妻,1889,2035,wife,wife,ten; needle; rake; woman,サイ,つま
@@ -2046,7 +2046,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 眉,2583,2045,eyebrow,eyebrow,flag; stick; eye,ビ; ミ,まゆ
 呉,1897,2046,give,give,mouth; chair; tool; animal legs,ゴ,く.れる; くれ
 娯,1898,2047,recreation,recreation,woman; give; mouth; chair; tool; animal legs,ゴ,
-誤,1899,2048,mistake,mistake,say; words; keitai; mouth; give; mouth; chair; tool; animal legs; mouth2,ゴ,あやま.る; -あやま.る
+誤,1899,2048,mistake,mistake,say; words; keitai; mouth; give; mouth; chair; tool; animal legs,ゴ,あやま.る; -あやま.る
 蒸,1900,2049,steam,steam,flowers; helping hand; complete; water; one; floor; oven-fire; barbecue,ジョウ; セイ,む.す; む.れる; む.らす
 承,1901,2050,acquiesce,acquiesce,water; complete; three,ショウ; ジョウ,うけたまわ.る; う.ける; ささ.げる; とど.める; たす.ける; こ.らす; つい.で; すく.う
 函,1902,2051,bin,bin,snare; sparkler; shovel,カン,はこ; い.れる
@@ -2074,7 +2074,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 脹,1923,2073,dilate,dilate,moon; month; flesh; part of the body; long,チョウ,は.れる; ふく.らむ; ふく.れる
 髪,1924,2074,hair of the head,hair of the head,hairstyle; hair; shape; friend,ハツ,かみ
 展,1925,2075,unfold,unfold,flag; salad; hairpin; safety-pin,テン,
-喪,1926,2076,miss,miss,soil; dirt; ground; mouth; hairpin; safety-pin; mouth2,ソウ,も
+喪,1926,2076,miss,miss,soil; dirt; ground; mouth; hairpin; safety-pin,ソウ,も
 巣,1927,2077,nest,nest,owl; fruit; rice field; brains; tree; wood,ソウ,す; す.くう
 単,1928,2078,simple,simple,owl; rice field; brains; ten; needle,タン,ひとえ
 戦,1929,2079,war,war,simple; owl; rice field; brains; ten; needle; fiesta,セン,いくさ; たたか.う; おのの.く; そよぐ; わなな.く
@@ -2120,7 +2120,7 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 謡,1968,2119,Noh chanting,Noh chanting,noh chanting; say; words; keitai; mouth; condor; claw; vulture; king; mountain,ヨウ,うた.い; うた.う
 鬱,3030,2120,gloom,gloom,,ウツ,うっ.する; しげ.る; ふさ.ぐ
 就,1969,2121,concerning,concerning,capital; tall; top hat; mouth; small; little; understandably; chihuahua with one human leg,シュウ; ジュ,つ.く; つ.ける
-蹴,2742,2122,kick,kick,wooden leg; mouth; stop; footprint; concerning; capital; tall; top hat; mouth; small; little; understandably; chihuahua with one human leg; mouth2,シュク; シュウ,け.る
+蹴,2742,2122,kick,kick,wooden leg; mouth; stop; footprint; concerning; capital; tall; top hat; mouth; small; little; understandably; chihuahua with one human leg,シュク; シュウ,け.る
 懇,1970,2123,sociable,sociable,skunk; silver; heart,コン,ねんご.ろ
 墾,1971,2124,groundbreaking,groundbreaking,skunk; silver; soil; dirt; ground,コン,
 貌,2733,2125,countenance,countenance,skunk; badger; white; dove; human legs,ボウ; バク,かたち; かたどる
@@ -2152,14 +2152,14 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 慮,1996,2151,prudence,prudence,tiger; think; rice field; brains; heart,リョ,おもんぱく.る; おもんぱか.る
 劇,1997,2152,drama,drama,tiger; sow; pig; sword; sabre; saber,ゲキ,
 虐,1998,2153,tyrannize,tyrannize,tiger; one; box,ギャク,しいた.げる
-鹿,1999,2154,deer,deer,cave; antlers; compare; spoon; sitting on the ground; spoon2; sitting on the ground2,ロク,しか; か
-麓,2839,2155,foot of a mountain,foot of a mountain,grove; tree; wood; deer; cave; antlers; compare; spoon; sitting on the ground; spoon2; sitting on the ground2,ロク,ふもと
+鹿,1999,2154,deer,deer,cave; antlers; compare; spoon; sitting on the ground,ロク,しか; か
+麓,2839,2155,foot of a mountain,foot of a mountain,grove; tree; wood; deer; cave; antlers; compare; spoon; sitting on the ground,ロク,ふもと
 薦,2000,2156,recommend,recommend,flowers; deer; cave; antlers; slingshot; catapult; tail feathers,セン,すす.める
 慶,2001,2157,jubilation,jubilation,deer; cave; antlers; crown; heart; walking legs,ケイ,よろこ.び
-麗,2002,2158,lovely,lovely,one; ceiling; mediocre; deer; cave; antlers; compare; ceiling2; mediocre2; compare2,レイ,うるわ.しい; うら.らか
-熊,2003,2159,bear,bear,ability; elbow; moon; month; flesh; part of the body; spoon; sitting on the ground; oven-fire; barbecue; spoon2; sitting on the ground2,ユウ,くま
-能,2004,2160,ability,ability,elbow; moon; month; flesh; part of the body; spoon; sitting on the ground; spoon2; sitting on the ground2,ノウ,よ.く
-態,2005,2161,attitude,attitude,ability; elbow; moon; month; flesh; part of the body; spoon; sitting on the ground; heart; spoon2; sitting on the ground2,タイ,わざ.と
+麗,2002,2158,lovely,lovely,one; ceiling; mediocre; deer; cave; antlers; compare,レイ,うるわ.しい; うら.らか
+熊,2003,2159,bear,bear,ability; elbow; moon; month; flesh; part of the body; spoon; sitting on the ground; oven-fire; barbecue,ユウ,くま
+能,2004,2160,ability,ability,elbow; moon; month; flesh; part of the body; spoon; sitting on the ground,ノウ,よ.く
+態,2005,2161,attitude,attitude,ability; elbow; moon; month; flesh; part of the body; spoon; sitting on the ground; heart,タイ,わざ.と
 寅,2006,2162,sign of the tiger,sign of the tiger,house; caterpillar; one; ceiling; sprout; shoot; animal legs; eight,イン,とら
 演,2007,2163,performance,performance,water; water droplets; water pistol; sign of the tiger; house; caterpillar; one; ceiling; sprout; shoot; animal legs; eight,エン,
 辰,2008,2164,sign of the dragon,sign of the dragon,cliff; two; hairpin; safety-pin,シン; ジン,たつ
@@ -2175,21 +2175,21 @@ kanji,id_5th_ed,id_6th_ed,keyword_5th_ed,keyword_6th_ed,components,on_reading,ku
 咲,2018,2174,blossom,blossom,mouth; golden calf; horns; heavens,ショウ,さ.く; -ざき
 鬼,2019,2175,ghost,ghost,oni; drop; brains; rice field; human legs; elbow,キ,おに; おに-
 醜,2020,2176,ugly,ugly,whiskey bottle; ghost; oni; drop; brains; rice field; human legs; elbow,シュウ,みにく.い; しこ
-魂,2021,2177,soul,soul,rising cloud; two; elbow; wall; ghost; oni; drop; brains; rice field; human legs; elbow; elbow2,コン,たましい; たま
-魔,2022,2178,witch,witch,hemp; cliff; grove; tree; wood; ghost; oni; drop; brains; rice field; human legs; elbow; tree2; wood2,マ,
+魂,2021,2177,soul,soul,rising cloud; two; elbow; wall; ghost; oni; drop; brains; rice field; human legs; elbow,コン,たましい; たま
+魔,2022,2178,witch,witch,hemp; cliff; grove; tree; wood; ghost; oni; drop; brains; rice field; human legs; elbow,マ,
 魅,2023,2179,fascination,fascination,ghost; oni; drop; brains; rice field; human legs; elbow; not yet; one; tree; wood,ミ,
 塊,2024,2180,clod,clod,soil; dirt; ground; ghost; oni; drop; brains; rice field; human legs; elbow,カイ; ケ,かたまり; つちくれ
 襲,2025,2181,attack,attack,old dragon; vase; stand up; moon; month; flesh; part of the body; slingshot; catapult; snake; self; three; cloth; clothes; clothing; garment; dragon*,シュウ,おそ.う; かさ.ね
-嚇,2026,2182,upbraid,upbraid,menacing; mouth; incandescent; red; red2,カク,おど.かす
+嚇,2026,2182,upbraid,upbraid,menacing; mouth; incandescent; red,カク,おど.かす
 朕,2027,2183,majestic plural,majestic plural,moon; month; flesh; part of the body; golden calf; horns; heavens,チン,
 雰,2028,2184,atmosphere,atmosphere,rain; weather; part,フン,
 箇,2029,2185,item,item,bamboo; harden; pent in; old; tombstone; gravestone; church; ten; needle; mouth,カ; コ,
 錬,2030,2186,tempering,tempering,metal; gold; east; tree; wood; sun; day,レン,ね.る
 遵,2031,2187,abide by,abide by,revered; Mother Teresa; chieftain; Molotov cocktail; animal horns; whiskey bottle; glue; road,ジュン,
-罷,2032,2188,quit,quit,eye; cross-eyed; net; ability; elbow; moon; month; flesh; part of the body; spoon; sitting on the ground; spoon2; sitting on the ground2,ヒ,まか.り-; や.める
+罷,2032,2188,quit,quit,eye; cross-eyed; net; ability; elbow; moon; month; flesh; part of the body; spoon; sitting on the ground,ヒ,まか.り-; や.める
 屯,2033,2189,barracks,barracks,earthworm; drop; shovel; fishhook,トン,
 且,2034,2190,moreover,moreover,shelf; my bookshelves,ショ; ソ; ショウ,か.つ
-藻,2035,2191,seaweed,seaweed,flowers; water; water droplets; water pistol; furniture; goods; mouth; tree; wood; mouth3,ソウ,も
+藻,2035,2191,seaweed,seaweed,flowers; water; water droplets; water pistol; furniture; goods; mouth; tree; wood,ソウ,も
 隷,2036,2192,slave,slave,samurai; altar; show; two; small; sieve; rake; grains of rice,レイ,したが.う; しもべ
 癒,2037,2193,healing,healing,sickness; hospital; in the nick of time; meeting of butchers; moon; month; flesh; part of the body; sword; sabre; saber; heart,ユ,い.える; いや.す
 璽,2075,2194,imperial seal,imperial seal,let it be; noren; one; ceiling; eight; towel; stitching; patchwork quilt; jewel; earring,ジ,
